@@ -376,8 +376,15 @@ ORDER BY 3 DESC;
 
 **Oluwafemi Amodu**  
 Data Analyst | Business Intelligence  
-[LinkedIn](https://linkedin.com/in/oluwafemi-amodu-2090a0407) · [Portfolio](https://Oluwafemi-portfolio-sigma-vercel.app)
+[LinkedIn](https://linkedin.com/in/oluwafemi-amodu-2090a0407) · [Portfolio](https://Oluwafemi-portfolio-sigma-vercel.app) · [Email](oluwafemiemmanuel551@gmail.com)
+· [Chat on Whatsapp](+2349022131055)
+
 
 ---
+   
+
+
+
+
 
 *Built with Power BI · SQL · DAX*
