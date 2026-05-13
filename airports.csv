@@ -1,0 +1,16 @@
+Airport_ID,City,Country,IATA_Code,Airport_Name,Airport_Type
+AP001,Lagos,Nigeria,LOS,Murtala Muhammed International,International
+AP002,Abuja,Nigeria,ABV,Nnamdi Azikiwe International,International
+AP003,Kano,Nigeria,KAN,Mallam Aminu Kano International,International
+AP004,Port Harcourt,Nigeria,PHC,Port Harcourt International,International
+AP005,Enugu,Nigeria,ENU,Akanu Ibiam International,Domestic
+AP006,Nairobi,Kenya,NBO,Jomo Kenyatta International,International
+AP007,Addis Ababa,Ethiopia,ADD,Bole International,International
+AP008,Cairo,Egypt,CAI,Cairo International,International
+AP009,Accra,Ghana,ACC,Kotoka International,International
+AP010,Johannesburg,South Africa,JNB,O.R. Tambo International,International
+AP011,Dakar,Senegal,DKR,Blaise Diagne International,International
+AP012,Casablanca,Morocco,CMN,Mohammed V International,International
+AP013,Dar es Salaam,Tanzania,DAR,Julius Nyerere International,International
+AP014,Lusaka,Zambia,LUN,Kenneth Kaunda International,International
+AP015,Douala,Cameroon,DLA,Douala International,International

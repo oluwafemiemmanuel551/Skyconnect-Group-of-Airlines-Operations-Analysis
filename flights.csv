@@ -1,0 +1,1001 @@
+Flight_ID,Airline_Name,Origin_City,Origin_Country,Destination_City,Destination_Country,Distance_KM,Scheduled_Departure,Scheduled_Arrival,Flight_Status,Base_Fare_NGN
+FL00001,Arik Air,Accra,Ghana,Johannesburg,South Africa,4922,2023-01-01 11:00:00,2023-01-01 17:51:00,On-Time,444706
+FL00002,Arik Air,Dakar,Senegal,Dar es Salaam,Tanzania,6200,2023-01-01 19:00:00,2023-01-02 03:25:00,On-Time,556357
+FL00003,Kenya Airways,Dar es Salaam,Tanzania,Abuja,Nigeria,4050,2023-01-02 15:30:00,2023-01-02 21:00:00,Delayed,391875
+FL00004,Kenya Airways,Nairobi,Kenya,Cairo,Egypt,3637,2023-01-03 12:00:00,2023-01-03 17:19:00,On-Time,347853
+FL00005,EgyptAir,Dakar,Senegal,Abuja,Nigeria,2600,2023-01-03 11:15:00,2023-01-03 15:15:00,Cancelled,259704
+FL00006,Arik Air,Dakar,Senegal,Cairo,Egypt,4900,2023-01-04 15:15:00,2023-01-04 22:12:00,On-Time,440640
+FL00007,EgyptAir,Nairobi,Kenya,Lagos,Nigeria,4182,2023-01-05 15:30:00,2023-01-05 21:26:00,Cancelled,403709
+FL00008,Kenya Airways,Lusaka,Zambia,Enugu,Nigeria,4000,2023-01-06 08:15:00,2023-01-06 13:57:00,On-Time,381033
+FL00009,Arik Air,Douala,Cameroon,Accra,Ghana,1200,2023-01-06 12:45:00,2023-01-06 15:09:00,Cancelled,117524
+FL00010,Air Peace,Enugu,Nigeria,Lusaka,Zambia,4000,2023-01-07 07:15:00,2023-01-07 12:45:00,On-Time,380740
+FL00011,EgyptAir,Lagos,Nigeria,Enugu,Nigeria,478,2023-01-08 06:15:00,2023-01-08 07:36:00,Delayed,56737
+FL00012,Kenya Airways,Nairobi,Kenya,Cairo,Egypt,3637,2023-01-09 16:00:00,2023-01-09 21:09:00,Delayed,344608
+FL00013,EgyptAir,Lagos,Nigeria,Cairo,Egypt,4020,2023-01-09 10:00:00,2023-01-09 15:19:00,On-Time,379646
+FL00014,Kenya Airways,Johannesburg,South Africa,Dar es Salaam,Tanzania,2400,2023-01-10 06:15:00,2023-01-10 09:56:00,On-Time,237127
+FL00015,Air Peace,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-01-11 05:30:00,2023-01-11 10:33:00,On-Time,358207
+FL00016,EgyptAir,Lagos,Nigeria,Dakar,Senegal,2832,2023-01-11 16:00:00,2023-01-11 20:22:00,On-Time,272015
+FL00017,Arik Air,Douala,Cameroon,Casablanca,Morocco,3800,2023-01-12 16:30:00,2023-01-12 21:34:00,On-Time,339411
+FL00018,Kenya Airways,Addis Ababa,Ethiopia,Enugu,Nigeria,3450,2023-01-13 21:15:00,2023-01-14 02:02:00,On-Time,334084
+FL00019,EgyptAir,Lagos,Nigeria,Kano,Nigeria,1054,2023-01-14 14:15:00,2023-01-14 16:22:00,On-Time,102374
+FL00020,Dana Air,Enugu,Nigeria,Dar es Salaam,Tanzania,4200,2023-01-14 20:45:00,2023-01-15 02:58:00,Delayed,366146
+FL00021,Ethiopian Airlines,Dar es Salaam,Tanzania,Lusaka,Zambia,1500,2023-01-15 19:00:00,2023-01-15 21:25:00,On-Time,153512
+FL00022,Ethiopian Airlines,Dar es Salaam,Tanzania,Port Harcourt,Nigeria,4100,2023-01-16 19:15:00,2023-01-17 01:08:00,Cancelled,407967
+FL00023,Dana Air,Abuja,Nigeria,Enugu,Nigeria,330,2023-01-17 16:45:00,2023-01-17 17:57:00,On-Time,43878
+FL00024,Ethiopian Airlines,Douala,Cameroon,Lusaka,Zambia,3600,2023-01-17 07:00:00,2023-01-17 11:55:00,Delayed,362945
+FL00025,Kenya Airways,Cairo,Egypt,Addis Ababa,Ethiopia,2185,2023-01-18 09:15:00,2023-01-18 12:29:00,Delayed,216841
+FL00026,Arik Air,Port Harcourt,Nigeria,Enugu,Nigeria,155,2023-01-19 11:15:00,2023-01-19 12:04:00,Delayed,28240
+FL00027,Ethiopian Airlines,Accra,Ghana,Lusaka,Zambia,4500,2023-01-19 13:00:00,2023-01-19 19:22:00,Cancelled,447722
+FL00028,EgyptAir,Lagos,Nigeria,Nairobi,Kenya,4182,2023-01-20 11:00:00,2023-01-20 17:08:00,On-Time,394360
+FL00029,Arik Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-01-21 22:00:00,2023-01-22 04:11:00,Cancelled,395840
+FL00030,Arik Air,Kano,Nigeria,Nairobi,Kenya,3318,2023-01-22 08:15:00,2023-01-22 12:54:00,Delayed,300667
+FL00031,Ethiopian Airlines,Lagos,Nigeria,Dakar,Senegal,2832,2023-01-22 18:15:00,2023-01-22 22:39:00,Delayed,277080
+FL00032,Arik Air,Accra,Ghana,Lagos,Nigeria,397,2023-01-23 22:45:00,2023-01-24 00:03:00,Delayed,56950
+FL00033,Kenya Airways,Nairobi,Kenya,Addis Ababa,Ethiopia,1165,2023-01-24 13:30:00,2023-01-24 15:16:00,On-Time,114332
+FL00034,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-01-25 06:00:00,2023-01-25 11:52:00,On-Time,373076
+FL00035,Air Peace,Abuja,Nigeria,Port Harcourt,Nigeria,476,2023-01-25 19:15:00,2023-01-25 20:33:00,Delayed,59383
+FL00036,Ethiopian Airlines,Cairo,Egypt,Port Harcourt,Nigeria,3821,2023-01-26 11:15:00,2023-01-26 16:49:00,On-Time,374759
+FL00037,EgyptAir,Nairobi,Kenya,Accra,Ghana,4808,2023-01-27 16:00:00,2023-01-27 22:45:00,On-Time,463792
+FL00038,Air Peace,Kano,Nigeria,Addis Ababa,Ethiopia,3020,2023-01-28 12:30:00,2023-01-28 16:49:00,On-Time,283504
+FL00039,Ethiopian Airlines,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2023-01-28 19:00:00,2023-01-28 20:30:00,On-Time,69264
+FL00040,EgyptAir,Accra,Ghana,Abuja,Nigeria,1055,2023-01-29 07:30:00,2023-01-29 09:35:00,On-Time,114405
+FL00041,Dana Air,Abuja,Nigeria,Cairo,Egypt,3224,2023-01-30 18:15:00,2023-01-30 22:50:00,On-Time,288726
+FL00042,EgyptAir,Nairobi,Kenya,Accra,Ghana,4808,2023-01-30 21:30:00,2023-01-31 04:12:00,On-Time,462124
+FL00043,Kenya Airways,Lagos,Nigeria,Johannesburg,South Africa,4590,2023-01-31 08:45:00,2023-01-31 14:54:00,On-Time,432502
+FL00044,Ethiopian Airlines,Addis Ababa,Ethiopia,Dar es Salaam,Tanzania,1280,2023-02-01 22:15:00,2023-02-02 00:50:00,On-Time,142501
+FL00045,Kenya Airways,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2023-02-02 12:45:00,2023-02-02 18:13:00,On-Time,348355
+FL00046,Air Peace,Lagos,Nigeria,Douala,Cameroon,1060,2023-02-02 08:00:00,2023-02-02 09:59:00,On-Time,105295
+FL00047,Air Peace,Enugu,Nigeria,Dar es Salaam,Tanzania,4200,2023-02-03 06:00:00,2023-02-03 12:05:00,Delayed,399163
+FL00048,Air Peace,Nairobi,Kenya,Abuja,Nigeria,3714,2023-02-04 10:00:00,2023-02-04 15:10:00,On-Time,342077
+FL00049,Dana Air,Lagos,Nigeria,Johannesburg,South Africa,4590,2023-02-05 14:30:00,2023-02-05 20:53:00,Delayed,405067
+FL00050,Arik Air,Port Harcourt,Nigeria,Abuja,Nigeria,476,2023-02-05 08:15:00,2023-02-05 09:30:00,Cancelled,57270
+FL00051,EgyptAir,Nairobi,Kenya,Enugu,Nigeria,3800,2023-02-06 22:00:00,2023-02-07 03:19:00,On-Time,355160
+FL00052,Arik Air,Douala,Cameroon,Abuja,Nigeria,870,2023-02-07 16:00:00,2023-02-07 17:49:00,Delayed,93825
+FL00053,EgyptAir,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-02-07 06:15:00,2023-02-07 11:28:00,On-Time,367445
+FL00054,Air Peace,Nairobi,Kenya,Enugu,Nigeria,3800,2023-02-08 14:00:00,2023-02-08 19:03:00,On-Time,366362
+FL00055,Arik Air,Douala,Cameroon,Port Harcourt,Nigeria,480,2023-02-09 08:45:00,2023-02-09 10:03:00,Cancelled,56224
+FL00056,Kenya Airways,Accra,Ghana,Lagos,Nigeria,397,2023-02-10 18:15:00,2023-02-10 19:41:00,On-Time,46838
+FL00057,EgyptAir,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2023-02-10 20:15:00,2023-02-11 02:13:00,On-Time,414076
+FL00058,Kenya Airways,Lagos,Nigeria,Kano,Nigeria,1054,2023-02-11 19:15:00,2023-02-11 20:54:00,On-Time,119942
+FL00059,Ethiopian Airlines,Johannesburg,South Africa,Abuja,Nigeria,4243,2023-02-12 12:45:00,2023-02-12 18:32:00,Delayed,427188
+FL00060,Kenya Airways,Johannesburg,South Africa,Douala,Cameroon,3900,2023-02-13 18:15:00,2023-02-13 23:50:00,On-Time,374130
+FL00061,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2023-02-13 12:45:00,2023-02-13 13:59:00,On-Time,64100
+FL00062,Arik Air,Accra,Ghana,Cairo,Egypt,4383,2023-02-14 20:15:00,2023-02-15 02:14:00,On-Time,402872
+FL00063,Dana Air,Enugu,Nigeria,Johannesburg,South Africa,4100,2023-02-15 17:30:00,2023-02-15 23:28:00,On-Time,359906
+FL00064,Ethiopian Airlines,Addis Ababa,Ethiopia,Port Harcourt,Nigeria,3570,2023-02-16 22:00:00,2023-02-17 03:12:00,On-Time,354490
+FL00065,Ethiopian Airlines,Johannesburg,South Africa,Lusaka,Zambia,1160,2023-02-16 19:30:00,2023-02-16 21:41:00,On-Time,134886
+FL00066,Arik Air,Dakar,Senegal,Enugu,Nigeria,3100,2023-02-17 17:00:00,2023-02-17 21:47:00,On-Time,296228
+FL00067,Dana Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-02-18 13:45:00,2023-02-18 19:08:00,On-Time,334140
+FL00068,EgyptAir,Johannesburg,South Africa,Douala,Cameroon,3900,2023-02-18 19:30:00,2023-02-19 00:50:00,On-Time,370348
+FL00069,EgyptAir,Lagos,Nigeria,Nairobi,Kenya,4182,2023-02-19 17:15:00,2023-02-19 23:18:00,On-Time,395286
+FL00070,Kenya Airways,Nairobi,Kenya,Lusaka,Zambia,1860,2023-02-20 05:00:00,2023-02-20 07:38:00,On-Time,194032
+FL00071,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-02-21 11:00:00,2023-02-21 16:57:00,On-Time,405795
+FL00072,Dana Air,Enugu,Nigeria,Port Harcourt,Nigeria,155,2023-02-21 13:30:00,2023-02-21 14:10:00,On-Time,28924
+FL00073,Ethiopian Airlines,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-02-22 05:45:00,2023-02-22 11:06:00,Delayed,383464
+FL00074,Air Peace,Enugu,Nigeria,Port Harcourt,Nigeria,155,2023-02-23 16:30:00,2023-02-23 17:35:00,On-Time,29586
+FL00075,Air Peace,Lagos,Nigeria,Abuja,Nigeria,533,2023-02-24 12:45:00,2023-02-24 14:10:00,Cancelled,69925
+FL00076,Kenya Airways,Nairobi,Kenya,Dakar,Senegal,5600,2023-02-24 15:45:00,2023-02-24 23:42:00,On-Time,544463
+FL00077,Kenya Airways,Dar es Salaam,Tanzania,Dakar,Senegal,6200,2023-02-25 21:00:00,2023-02-26 05:23:00,On-Time,600231
+FL00078,Air Peace,Nairobi,Kenya,Lagos,Nigeria,4182,2023-02-26 12:30:00,2023-02-26 18:04:00,On-Time,396296
+FL00079,Ethiopian Airlines,Addis Ababa,Ethiopia,Cairo,Egypt,2185,2023-02-26 07:30:00,2023-02-26 11:00:00,On-Time,216031
+FL00080,Kenya Airways,Johannesburg,South Africa,Cairo,Egypt,6261,2023-02-27 07:45:00,2023-02-27 15:57:00,On-Time,603804
+FL00081,Kenya Airways,Lusaka,Zambia,Johannesburg,South Africa,1160,2023-02-28 05:30:00,2023-02-28 07:34:00,Cancelled,117411
+FL00082,Dana Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-03-01 09:15:00,2023-03-01 14:32:00,On-Time,336964
+FL00083,EgyptAir,Lagos,Nigeria,Accra,Ghana,397,2023-03-01 14:15:00,2023-03-01 15:13:00,On-Time,54803
+FL00084,Ethiopian Airlines,Addis Ababa,Ethiopia,Accra,Ghana,4200,2023-03-02 11:30:00,2023-03-02 17:35:00,On-Time,423393
+FL00085,Arik Air,Kano,Nigeria,Lagos,Nigeria,1054,2023-03-03 13:30:00,2023-03-03 15:17:00,On-Time,107584
+FL00086,Air Peace,Lagos,Nigeria,Dakar,Senegal,2832,2023-03-04 11:45:00,2023-03-04 15:55:00,Delayed,273969
+FL00087,Kenya Airways,Dar es Salaam,Tanzania,Casablanca,Morocco,6400,2023-03-04 13:15:00,2023-03-04 21:52:00,On-Time,600980
+FL00088,Kenya Airways,Lusaka,Zambia,Casablanca,Morocco,6000,2023-03-05 12:15:00,2023-03-05 20:09:00,On-Time,575232
+FL00089,Air Peace,Kano,Nigeria,Douala,Cameroon,950,2023-03-06 16:00:00,2023-03-06 17:47:00,On-Time,102775
+FL00090,EgyptAir,Nairobi,Kenya,Enugu,Nigeria,3800,2023-03-07 06:45:00,2023-03-07 12:16:00,On-Time,373144
+FL00091,Kenya Airways,Johannesburg,South Africa,Dakar,Senegal,6500,2023-03-07 05:00:00,2023-03-07 13:59:00,Delayed,620236
+FL00092,Ethiopian Airlines,Douala,Cameroon,Abuja,Nigeria,870,2023-03-08 20:15:00,2023-03-08 22:04:00,On-Time,103647
+FL00093,EgyptAir,Accra,Ghana,Douala,Cameroon,1200,2023-03-09 09:45:00,2023-03-09 12:05:00,Delayed,126173
+FL00094,Ethiopian Airlines,Nairobi,Kenya,Abuja,Nigeria,3714,2023-03-09 07:30:00,2023-03-09 12:32:00,Delayed,373751
+FL00095,Dana Air,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2023-03-10 16:45:00,2023-03-10 22:12:00,Delayed,337876
+FL00096,Dana Air,Kano,Nigeria,Cairo,Egypt,2887,2023-03-11 12:30:00,2023-03-11 16:53:00,Delayed,259891
+FL00097,Kenya Airways,Cairo,Egypt,Accra,Ghana,4383,2023-03-12 07:30:00,2023-03-12 13:36:00,On-Time,429517
+FL00098,Air Peace,Port Harcourt,Nigeria,Accra,Ghana,730,2023-03-12 05:45:00,2023-03-12 07:05:00,Delayed,82454
+FL00099,Air Peace,Abuja,Nigeria,Nairobi,Kenya,3714,2023-03-13 07:30:00,2023-03-13 12:57:00,On-Time,350589
+FL00100,Air Peace,Enugu,Nigeria,Johannesburg,South Africa,4100,2023-03-14 09:00:00,2023-03-14 14:48:00,On-Time,393033
+FL00101,Arik Air,Douala,Cameroon,Casablanca,Morocco,3800,2023-03-15 19:15:00,2023-03-16 00:49:00,On-Time,359273
+FL00102,Kenya Airways,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-03-15 18:30:00,2023-03-15 23:54:00,On-Time,373368
+FL00103,EgyptAir,Accra,Ghana,Kano,Nigeria,1382,2023-03-16 07:00:00,2023-03-16 09:43:00,On-Time,141740
+FL00104,Ethiopian Airlines,Johannesburg,South Africa,Dakar,Senegal,6500,2023-03-17 05:30:00,2023-03-17 14:32:00,On-Time,624328
+FL00105,EgyptAir,Johannesburg,South Africa,Nairobi,Kenya,2723,2023-03-17 09:15:00,2023-03-17 13:26:00,On-Time,261407
+FL00106,Ethiopian Airlines,Douala,Cameroon,Dar es Salaam,Tanzania,3500,2023-03-18 18:00:00,2023-03-18 22:44:00,On-Time,340063
+FL00107,Kenya Airways,Accra,Ghana,Kano,Nigeria,1382,2023-03-19 11:15:00,2023-03-19 13:19:00,On-Time,140169
+FL00108,Ethiopian Airlines,Accra,Ghana,Douala,Cameroon,1200,2023-03-20 13:15:00,2023-03-20 15:23:00,On-Time,133226
+FL00109,Ethiopian Airlines,Cairo,Egypt,Lagos,Nigeria,4020,2023-03-20 19:00:00,2023-03-21 00:46:00,On-Time,403947
+FL00110,Kenya Airways,Dar es Salaam,Tanzania,Douala,Cameroon,3500,2023-03-21 19:00:00,2023-03-22 00:21:00,On-Time,347751
+FL00111,Dana Air,Enugu,Nigeria,Port Harcourt,Nigeria,155,2023-03-22 14:00:00,2023-03-22 14:34:00,Delayed,28895
+FL00112,Arik Air,Dakar,Senegal,Port Harcourt,Nigeria,3000,2023-03-23 17:45:00,2023-03-23 21:50:00,Delayed,278518
+FL00113,Dana Air,Lagos,Nigeria,Dar es Salaam,Tanzania,4450,2023-03-23 11:00:00,2023-03-23 17:04:00,On-Time,395735
+FL00114,Ethiopian Airlines,Johannesburg,South Africa,Casablanca,Morocco,7200,2023-03-24 21:00:00,2023-03-25 06:46:00,Cancelled,707555
+FL00115,Dana Air,Lagos,Nigeria,Dakar,Senegal,2832,2023-03-25 08:00:00,2023-03-25 12:15:00,On-Time,254049
+FL00116,Arik Air,Kano,Nigeria,Lusaka,Zambia,3700,2023-03-26 09:00:00,2023-03-26 14:24:00,On-Time,333357
+FL00117,Air Peace,Kano,Nigeria,Lusaka,Zambia,3700,2023-03-26 11:30:00,2023-03-26 16:58:00,On-Time,343017
+FL00118,Dana Air,Enugu,Nigeria,Lusaka,Zambia,4000,2023-03-27 17:45:00,2023-03-27 23:22:00,On-Time,360433
+FL00119,Kenya Airways,Dar es Salaam,Tanzania,Nairobi,Kenya,524,2023-03-28 19:15:00,2023-03-28 20:38:00,On-Time,58837
+FL00120,Dana Air,Lagos,Nigeria,Accra,Ghana,397,2023-03-28 15:00:00,2023-03-28 16:18:00,Delayed,52238
+FL00121,EgyptAir,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2023-03-29 08:30:00,2023-03-29 09:32:00,Delayed,67183
+FL00122,Air Peace,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2023-03-30 17:30:00,2023-03-30 22:43:00,On-Time,366097
+FL00123,Ethiopian Airlines,Lagos,Nigeria,Port Harcourt,Nigeria,443,2023-03-31 11:30:00,2023-03-31 12:32:00,Delayed,64374
+FL00124,EgyptAir,Dakar,Senegal,Johannesburg,South Africa,6500,2023-03-31 06:15:00,2023-03-31 15:15:00,On-Time,612032
+FL00125,Kenya Airways,Dar es Salaam,Tanzania,Cairo,Egypt,3600,2023-04-01 14:00:00,2023-04-01 18:49:00,On-Time,357058
+FL00126,Air Peace,Enugu,Nigeria,Port Harcourt,Nigeria,155,2023-04-02 17:45:00,2023-04-02 18:27:00,Delayed,33239
+FL00127,Dana Air,Port Harcourt,Nigeria,Accra,Ghana,730,2023-04-03 10:45:00,2023-04-03 12:21:00,Cancelled,84883
+FL00128,Arik Air,Port Harcourt,Nigeria,Accra,Ghana,730,2023-04-03 16:30:00,2023-04-03 17:53:00,Delayed,87985
+FL00129,Kenya Airways,Addis Ababa,Ethiopia,Enugu,Nigeria,3450,2023-04-04 16:15:00,2023-04-04 21:19:00,On-Time,344172
+FL00130,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2023-04-05 15:15:00,2023-04-05 21:12:00,On-Time,366774
+FL00131,Arik Air,Accra,Ghana,Port Harcourt,Nigeria,730,2023-04-05 11:15:00,2023-04-05 12:45:00,On-Time,69837
+FL00132,Air Peace,Lagos,Nigeria,Accra,Ghana,397,2023-04-06 05:45:00,2023-04-06 06:37:00,Delayed,59204
+FL00133,Air Peace,Nairobi,Kenya,Addis Ababa,Ethiopia,1165,2023-04-07 05:30:00,2023-04-07 07:38:00,On-Time,127751
+FL00134,EgyptAir,Casablanca,Morocco,Lagos,Nigeria,4010,2023-04-08 17:00:00,2023-04-08 22:36:00,On-Time,388277
+FL00135,Air Peace,Abuja,Nigeria,Dakar,Senegal,2600,2023-04-08 13:45:00,2023-04-08 17:37:00,On-Time,251924
+FL00136,EgyptAir,Nairobi,Kenya,Accra,Ghana,4808,2023-04-09 07:30:00,2023-04-09 14:21:00,On-Time,452002
+FL00137,Arik Air,Kano,Nigeria,Port Harcourt,Nigeria,793,2023-04-10 11:30:00,2023-04-10 13:20:00,On-Time,93492
+FL00138,Ethiopian Airlines,Johannesburg,South Africa,Douala,Cameroon,3900,2023-04-11 10:00:00,2023-04-11 15:42:00,On-Time,386483
+FL00139,Kenya Airways,Cairo,Egypt,Nairobi,Kenya,3637,2023-04-11 12:00:00,2023-04-11 16:57:00,On-Time,350064
+FL00140,Arik Air,Port Harcourt,Nigeria,Dakar,Senegal,3000,2023-04-12 13:00:00,2023-04-12 17:26:00,On-Time,282565
+FL00141,Dana Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2023-04-13 09:15:00,2023-04-13 10:22:00,Delayed,58450
+FL00142,Air Peace,Kano,Nigeria,Abuja,Nigeria,316,2023-04-14 05:00:00,2023-04-14 05:45:00,On-Time,35991
+FL00143,Ethiopian Airlines,Accra,Ghana,Cairo,Egypt,4383,2023-04-14 14:30:00,2023-04-14 20:31:00,Delayed,428624
+FL00144,Air Peace,Nairobi,Kenya,Douala,Cameroon,3200,2023-04-15 16:00:00,2023-04-15 20:40:00,On-Time,312909
+FL00145,Ethiopian Airlines,Nairobi,Kenya,Cairo,Egypt,3637,2023-04-16 19:30:00,2023-04-17 00:46:00,On-Time,350797
+FL00146,Arik Air,Kano,Nigeria,Accra,Ghana,1382,2023-04-16 13:45:00,2023-04-16 16:07:00,On-Time,127228
+FL00147,Ethiopian Airlines,Dar es Salaam,Tanzania,Port Harcourt,Nigeria,4100,2023-04-17 21:15:00,2023-04-18 03:14:00,Cancelled,400406
+FL00148,Air Peace,Port Harcourt,Nigeria,Casablanca,Morocco,4100,2023-04-18 21:45:00,2023-04-19 03:31:00,Cancelled,384102
+FL00149,Kenya Airways,Lagos,Nigeria,Douala,Cameroon,1060,2023-04-19 16:45:00,2023-04-19 18:49:00,On-Time,104705
+FL00150,Arik Air,Dakar,Senegal,Casablanca,Morocco,2000,2023-04-19 11:30:00,2023-04-19 14:24:00,On-Time,190752
+FL00151,Dana Air,Lagos,Nigeria,Enugu,Nigeria,478,2023-04-20 06:45:00,2023-04-20 08:09:00,Delayed,45856
+FL00152,Kenya Airways,Dar es Salaam,Tanzania,Lusaka,Zambia,1500,2023-04-21 07:30:00,2023-04-21 09:52:00,Cancelled,145145
+FL00153,Dana Air,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2023-04-22 21:00:00,2023-04-23 03:06:00,Cancelled,367175
+FL00154,Ethiopian Airlines,Douala,Cameroon,Enugu,Nigeria,600,2023-04-22 09:00:00,2023-04-22 10:13:00,Delayed,62587
+FL00155,Ethiopian Airlines,Dar es Salaam,Tanzania,Casablanca,Morocco,6400,2023-04-23 21:30:00,2023-04-24 06:22:00,On-Time,631099
+FL00156,Arik Air,Lagos,Nigeria,Port Harcourt,Nigeria,443,2023-04-24 21:00:00,2023-04-24 22:10:00,Delayed,51080
+FL00157,EgyptAir,Cairo,Egypt,Enugu,Nigeria,3700,2023-04-24 21:15:00,2023-04-25 02:44:00,Delayed,354522
+FL00158,Air Peace,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2023-04-25 06:45:00,2023-04-25 12:23:00,On-Time,365127
+FL00159,Ethiopian Airlines,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-04-26 06:15:00,2023-04-26 11:58:00,On-Time,375150
+FL00160,Dana Air,Port Harcourt,Nigeria,Dakar,Senegal,3000,2023-04-27 09:45:00,2023-04-27 14:09:00,On-Time,264628
+FL00161,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2023-04-27 05:00:00,2023-04-27 10:48:00,Delayed,377313
+FL00162,Air Peace,Nairobi,Kenya,Johannesburg,South Africa,2723,2023-04-28 05:15:00,2023-04-28 09:30:00,Delayed,260519
+FL00163,Dana Air,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-04-29 06:00:00,2023-04-29 11:35:00,On-Time,350521
+FL00164,EgyptAir,Lagos,Nigeria,Douala,Cameroon,1060,2023-04-30 16:45:00,2023-04-30 18:58:00,On-Time,116490
+FL00165,EgyptAir,Dakar,Senegal,Douala,Cameroon,3100,2023-04-30 10:30:00,2023-04-30 15:00:00,On-Time,307007
+FL00166,EgyptAir,Casablanca,Morocco,Nairobi,Kenya,5900,2023-05-01 08:30:00,2023-05-01 16:22:00,Delayed,563082
+FL00167,Dana Air,Abuja,Nigeria,Port Harcourt,Nigeria,476,2023-05-02 15:15:00,2023-05-02 16:42:00,On-Time,61146
+FL00168,EgyptAir,Dakar,Senegal,Accra,Ghana,2100,2023-05-03 21:00:00,2023-05-04 00:08:00,Delayed,216115
+FL00169,Dana Air,Port Harcourt,Nigeria,Douala,Cameroon,480,2023-05-03 10:00:00,2023-05-03 11:03:00,On-Time,64907
+FL00170,Air Peace,Accra,Ghana,Johannesburg,South Africa,4922,2023-05-04 09:15:00,2023-05-04 15:42:00,On-Time,462404
+FL00171,EgyptAir,Addis Ababa,Ethiopia,Enugu,Nigeria,3450,2023-05-05 06:30:00,2023-05-05 11:19:00,On-Time,322440
+FL00172,Ethiopian Airlines,Johannesburg,South Africa,Dar es Salaam,Tanzania,2400,2023-05-05 10:45:00,2023-05-05 14:38:00,Delayed,252582
+FL00173,Kenya Airways,Accra,Ghana,Lagos,Nigeria,397,2023-05-06 15:15:00,2023-05-06 16:14:00,On-Time,42699
+FL00174,EgyptAir,Casablanca,Morocco,Enugu,Nigeria,3900,2023-05-07 20:45:00,2023-05-08 02:17:00,On-Time,375932
+FL00175,Dana Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2023-05-08 20:30:00,2023-05-08 21:52:00,On-Time,56290
+FL00176,Dana Air,Lagos,Nigeria,Kano,Nigeria,1054,2023-05-08 05:00:00,2023-05-08 07:13:00,On-Time,94932
+FL00177,Ethiopian Airlines,Lusaka,Zambia,Casablanca,Morocco,6000,2023-05-09 13:30:00,2023-05-09 21:37:00,On-Time,587946
+FL00178,Arik Air,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2023-05-10 10:15:00,2023-05-10 15:32:00,Cancelled,357965
+FL00179,Ethiopian Airlines,Douala,Cameroon,Dar es Salaam,Tanzania,3500,2023-05-11 20:00:00,2023-05-12 01:07:00,Delayed,348087
+FL00180,Ethiopian Airlines,Johannesburg,South Africa,Nairobi,Kenya,2723,2023-05-11 07:15:00,2023-05-11 11:30:00,Cancelled,277488
+FL00181,Arik Air,Abuja,Nigeria,Casablanca,Morocco,3680,2023-05-12 08:15:00,2023-05-12 13:40:00,On-Time,338142
+FL00182,EgyptAir,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-05-13 07:30:00,2023-05-13 12:47:00,On-Time,368673
+FL00183,Dana Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-05-13 11:15:00,2023-05-13 16:37:00,On-Time,337836
+FL00184,Air Peace,Kano,Nigeria,Accra,Ghana,1382,2023-05-14 13:30:00,2023-05-14 15:51:00,On-Time,135188
+FL00185,Kenya Airways,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-05-15 05:00:00,2023-05-15 10:43:00,On-Time,381151
+FL00186,Dana Air,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2023-05-16 12:30:00,2023-05-16 18:07:00,On-Time,357328
+FL00187,Air Peace,Accra,Ghana,Dakar,Senegal,2100,2023-05-16 11:00:00,2023-05-16 14:07:00,Cancelled,212184
+FL00188,Kenya Airways,Nairobi,Kenya,Johannesburg,South Africa,2723,2023-05-17 22:30:00,2023-05-18 02:46:00,On-Time,270073
+FL00189,Air Peace,Nairobi,Kenya,Lusaka,Zambia,1860,2023-05-18 12:45:00,2023-05-18 15:50:00,On-Time,190140
+FL00190,EgyptAir,Johannesburg,South Africa,Lagos,Nigeria,4590,2023-05-19 05:45:00,2023-05-19 12:03:00,Delayed,440151
+FL00191,Kenya Airways,Lagos,Nigeria,Lusaka,Zambia,4260,2023-05-19 15:15:00,2023-05-19 21:18:00,On-Time,402167
+FL00192,Arik Air,Accra,Ghana,Cairo,Egypt,4383,2023-05-20 22:30:00,2023-05-21 04:52:00,On-Time,393756
+FL00193,Air Peace,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-05-21 14:30:00,2023-05-21 20:09:00,On-Time,373913
+FL00194,Air Peace,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-05-22 07:00:00,2023-05-22 12:26:00,On-Time,367191
+FL00195,Ethiopian Airlines,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2023-05-22 11:15:00,2023-05-22 16:39:00,On-Time,385696
+FL00196,Arik Air,Dakar,Senegal,Lusaka,Zambia,5900,2023-05-23 20:30:00,2023-05-24 04:39:00,On-Time,534258
+FL00197,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2023-05-24 20:15:00,2023-05-25 00:29:00,Cancelled,272944
+FL00198,Ethiopian Airlines,Cairo,Egypt,Port Harcourt,Nigeria,3821,2023-05-24 21:45:00,2023-05-25 03:16:00,Delayed,369623
+FL00199,EgyptAir,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2023-05-25 06:30:00,2023-05-25 10:23:00,On-Time,281450
+FL00200,Dana Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-05-26 05:30:00,2023-05-26 11:13:00,On-Time,356128
+FL00201,EgyptAir,Cairo,Egypt,Johannesburg,South Africa,6261,2023-05-27 20:15:00,2023-05-28 04:53:00,Delayed,582831
+FL00202,Kenya Airways,Accra,Ghana,Casablanca,Morocco,3300,2023-05-27 16:30:00,2023-05-27 21:13:00,Delayed,314020
+FL00203,Kenya Airways,Accra,Ghana,Dakar,Senegal,2100,2023-05-28 09:15:00,2023-05-28 12:35:00,On-Time,202123
+FL00204,Dana Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-05-29 09:30:00,2023-05-29 14:57:00,Delayed,346454
+FL00205,Dana Air,Abuja,Nigeria,Casablanca,Morocco,3680,2023-05-30 13:00:00,2023-05-30 18:19:00,Delayed,327935
+FL00206,Arik Air,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2023-05-30 13:15:00,2023-05-30 18:53:00,On-Time,367718
+FL00207,Ethiopian Airlines,Cairo,Egypt,Lusaka,Zambia,4800,2023-05-31 07:30:00,2023-05-31 14:09:00,On-Time,478826
+FL00208,Dana Air,Kano,Nigeria,Douala,Cameroon,950,2023-06-01 20:45:00,2023-06-01 22:39:00,On-Time,94517
+FL00209,Kenya Airways,Lusaka,Zambia,Abuja,Nigeria,3980,2023-06-01 20:30:00,2023-06-02 02:21:00,On-Time,390985
+FL00210,Air Peace,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-06-02 07:45:00,2023-06-02 13:02:00,Cancelled,363609
+FL00211,Dana Air,Kano,Nigeria,Casablanca,Morocco,3200,2023-06-03 05:45:00,2023-06-03 10:08:00,On-Time,284597
+FL00212,EgyptAir,Addis Ababa,Ethiopia,Casablanca,Morocco,5000,2023-06-04 15:00:00,2023-06-04 21:39:00,On-Time,479138
+FL00213,Kenya Airways,Cairo,Egypt,Enugu,Nigeria,3700,2023-06-04 21:15:00,2023-06-05 02:22:00,Cancelled,367656
+FL00214,Kenya Airways,Addis Ababa,Ethiopia,Dar es Salaam,Tanzania,1280,2023-06-05 12:30:00,2023-06-05 14:37:00,Delayed,124825
+FL00215,Ethiopian Airlines,Douala,Cameroon,Lagos,Nigeria,1060,2023-06-06 08:00:00,2023-06-06 09:41:00,On-Time,120673
+FL00216,Ethiopian Airlines,Addis Ababa,Ethiopia,Lusaka,Zambia,2520,2023-06-07 10:30:00,2023-06-07 14:37:00,Delayed,247636
+FL00217,Air Peace,Lagos,Nigeria,Lusaka,Zambia,4260,2023-06-07 12:45:00,2023-06-07 18:45:00,Delayed,393898
+FL00218,Dana Air,Kano,Nigeria,Dakar,Senegal,2400,2023-06-08 07:15:00,2023-06-08 11:07:00,Delayed,213857
+FL00219,Air Peace,Enugu,Nigeria,Douala,Cameroon,600,2023-06-09 20:30:00,2023-06-09 22:01:00,On-Time,59138
+FL00220,Ethiopian Airlines,Cairo,Egypt,Lagos,Nigeria,4020,2023-06-10 07:30:00,2023-06-10 13:13:00,On-Time,391904
+FL00221,Arik Air,Kano,Nigeria,Enugu,Nigeria,650,2023-06-10 22:45:00,2023-06-11 00:08:00,Cancelled,64351
+FL00222,EgyptAir,Cairo,Egypt,Accra,Ghana,4383,2023-06-11 18:30:00,2023-06-12 00:42:00,On-Time,424448
+FL00223,Ethiopian Airlines,Dar es Salaam,Tanzania,Lagos,Nigeria,4450,2023-06-12 22:30:00,2023-06-13 04:51:00,Cancelled,437988
+FL00224,Dana Air,Enugu,Nigeria,Abuja,Nigeria,330,2023-06-12 06:45:00,2023-06-12 07:58:00,On-Time,52645
+FL00225,EgyptAir,Johannesburg,South Africa,Nairobi,Kenya,2723,2023-06-13 07:00:00,2023-06-13 11:15:00,On-Time,256723
+FL00226,Ethiopian Airlines,Douala,Cameroon,Lusaka,Zambia,3600,2023-06-14 20:45:00,2023-06-15 01:34:00,Cancelled,347882
+FL00227,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2023-06-15 13:00:00,2023-06-15 18:42:00,Delayed,356416
+FL00228,Arik Air,Port Harcourt,Nigeria,Addis Ababa,Ethiopia,3570,2023-06-15 08:15:00,2023-06-15 13:22:00,On-Time,321614
+FL00229,Dana Air,Kano,Nigeria,Johannesburg,South Africa,4118,2023-06-16 05:00:00,2023-06-16 10:42:00,Delayed,370339
+FL00230,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2023-06-17 08:00:00,2023-06-17 13:56:00,Delayed,368453
+FL00231,Kenya Airways,Johannesburg,South Africa,Accra,Ghana,4922,2023-06-18 05:15:00,2023-06-18 11:44:00,On-Time,465130
+FL00232,Air Peace,Lagos,Nigeria,Accra,Ghana,397,2023-06-18 18:00:00,2023-06-18 18:50:00,Delayed,43220
+FL00233,Kenya Airways,Lagos,Nigeria,Douala,Cameroon,1060,2023-06-19 20:45:00,2023-06-19 22:31:00,Delayed,104717
+FL00234,EgyptAir,Johannesburg,South Africa,Nairobi,Kenya,2723,2023-06-20 12:00:00,2023-06-20 16:12:00,Delayed,267929
+FL00235,Kenya Airways,Lusaka,Zambia,Casablanca,Morocco,6000,2023-06-20 11:15:00,2023-06-20 19:36:00,On-Time,580079
+FL00236,EgyptAir,Cairo,Egypt,Douala,Cameroon,3600,2023-06-21 07:45:00,2023-06-21 12:33:00,Cancelled,346703
+FL00237,Arik Air,Lagos,Nigeria,Accra,Ghana,397,2023-06-22 21:15:00,2023-06-22 22:15:00,On-Time,41024
+FL00238,Ethiopian Airlines,Douala,Cameroon,Enugu,Nigeria,600,2023-06-23 05:15:00,2023-06-23 06:49:00,On-Time,71959
+FL00239,Kenya Airways,Dar es Salaam,Tanzania,Accra,Ghana,4700,2023-06-23 20:30:00,2023-06-24 03:12:00,Delayed,452533
+FL00240,Air Peace,Abuja,Nigeria,Douala,Cameroon,870,2023-06-24 16:30:00,2023-06-24 18:05:00,Delayed,85314
+FL00241,EgyptAir,Addis Ababa,Ethiopia,Kano,Nigeria,3020,2023-06-25 18:15:00,2023-06-25 22:42:00,On-Time,294788
+FL00242,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-06-26 10:15:00,2023-06-26 16:14:00,Delayed,406185
+FL00243,Air Peace,Nairobi,Kenya,Abuja,Nigeria,3714,2023-06-26 10:15:00,2023-06-26 15:44:00,Delayed,346615
+FL00244,Arik Air,Abuja,Nigeria,Dakar,Senegal,2600,2023-06-27 17:30:00,2023-06-27 21:19:00,On-Time,236355
+FL00245,Arik Air,Dakar,Senegal,Kano,Nigeria,2400,2023-06-28 12:30:00,2023-06-28 16:21:00,Cancelled,221886
+FL00246,Dana Air,Enugu,Nigeria,Cairo,Egypt,3700,2023-06-29 06:00:00,2023-06-29 11:15:00,On-Time,335092
+FL00247,EgyptAir,Johannesburg,South Africa,Lusaka,Zambia,1160,2023-06-29 05:00:00,2023-06-29 07:10:00,On-Time,126781
+FL00248,Air Peace,Nairobi,Kenya,Cairo,Egypt,3637,2023-06-30 19:15:00,2023-07-01 00:42:00,On-Time,333919
+FL00249,Ethiopian Airlines,Johannesburg,South Africa,Abuja,Nigeria,4243,2023-07-01 05:45:00,2023-07-01 11:31:00,Delayed,417288
+FL00250,Kenya Airways,Lusaka,Zambia,Nairobi,Kenya,1860,2023-07-01 09:45:00,2023-07-01 12:46:00,On-Time,183570
+FL00251,Arik Air,Port Harcourt,Nigeria,Cairo,Egypt,3821,2023-07-02 20:30:00,2023-07-03 01:41:00,Delayed,349175
+FL00252,Arik Air,Dakar,Senegal,Casablanca,Morocco,2000,2023-07-03 08:30:00,2023-07-03 11:29:00,On-Time,194752
+FL00253,Air Peace,Abuja,Nigeria,Lusaka,Zambia,3980,2023-07-04 07:30:00,2023-07-04 12:48:00,On-Time,377287
+FL00254,Air Peace,Accra,Ghana,Enugu,Nigeria,700,2023-07-04 21:15:00,2023-07-04 23:04:00,On-Time,76859
+FL00255,Dana Air,Lagos,Nigeria,Abuja,Nigeria,533,2023-07-05 21:45:00,2023-07-05 22:48:00,On-Time,56098
+FL00256,Ethiopian Airlines,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2023-07-06 16:00:00,2023-07-06 22:15:00,Cancelled,411639
+FL00257,EgyptAir,Accra,Ghana,Cairo,Egypt,4383,2023-07-07 18:15:00,2023-07-08 00:42:00,On-Time,416898
+FL00258,Arik Air,Accra,Ghana,Lagos,Nigeria,397,2023-07-07 10:00:00,2023-07-07 11:26:00,Delayed,46254
+FL00259,Kenya Airways,Lagos,Nigeria,Casablanca,Morocco,4010,2023-07-08 07:00:00,2023-07-08 12:46:00,Cancelled,378452
+FL00260,Air Peace,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2023-07-09 13:15:00,2023-07-09 19:04:00,On-Time,395252
+FL00261,Dana Air,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2023-07-09 09:00:00,2023-07-09 14:12:00,On-Time,352216
+FL00262,Ethiopian Airlines,Douala,Cameroon,Kano,Nigeria,950,2023-07-10 21:45:00,2023-07-10 23:33:00,On-Time,101343
+FL00263,Dana Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2023-07-11 18:00:00,2023-07-11 23:39:00,Delayed,369102
+FL00264,Kenya Airways,Lagos,Nigeria,Enugu,Nigeria,478,2023-07-12 07:45:00,2023-07-12 09:14:00,On-Time,69075
+FL00265,Dana Air,Lagos,Nigeria,Enugu,Nigeria,478,2023-07-12 05:45:00,2023-07-12 07:07:00,On-Time,63765
+FL00266,Ethiopian Airlines,Nairobi,Kenya,Kano,Nigeria,3318,2023-07-13 05:45:00,2023-07-13 10:25:00,On-Time,339814
+FL00267,Ethiopian Airlines,Accra,Ghana,Nairobi,Kenya,4808,2023-07-14 07:30:00,2023-07-14 13:56:00,Delayed,473275
+FL00268,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2023-07-15 22:00:00,2023-07-16 02:57:00,On-Time,321173
+FL00269,Kenya Airways,Dar es Salaam,Tanzania,Enugu,Nigeria,4200,2023-07-15 14:15:00,2023-07-15 20:16:00,On-Time,415157
+FL00270,Arik Air,Douala,Cameroon,Lagos,Nigeria,1060,2023-07-16 07:15:00,2023-07-16 08:57:00,On-Time,106858
+FL00271,EgyptAir,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2023-07-17 12:00:00,2023-07-17 17:12:00,On-Time,337601
+FL00272,Ethiopian Airlines,Lusaka,Zambia,Lagos,Nigeria,4260,2023-07-18 18:30:00,2023-07-19 00:20:00,Delayed,421650
+FL00273,Air Peace,Port Harcourt,Nigeria,Dakar,Senegal,3000,2023-07-18 22:30:00,2023-07-19 03:08:00,On-Time,280818
+FL00274,EgyptAir,Cairo,Egypt,Abuja,Nigeria,3224,2023-07-19 19:45:00,2023-07-20 00:12:00,On-Time,319516
+FL00275,Air Peace,Lagos,Nigeria,Cairo,Egypt,4020,2023-07-20 06:00:00,2023-07-20 11:41:00,On-Time,372955
+FL00276,Dana Air,Enugu,Nigeria,Port Harcourt,Nigeria,155,2023-07-20 14:00:00,2023-07-20 14:52:00,Delayed,36766
+FL00277,Dana Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-07-21 06:15:00,2023-07-21 12:07:00,On-Time,358177
+FL00278,Dana Air,Port Harcourt,Nigeria,Accra,Ghana,730,2023-07-22 21:00:00,2023-07-22 22:15:00,On-Time,86710
+FL00279,Ethiopian Airlines,Lagos,Nigeria,Dar es Salaam,Tanzania,4450,2023-07-23 12:30:00,2023-07-23 18:24:00,Cancelled,428380
+FL00280,Kenya Airways,Lusaka,Zambia,Port Harcourt,Nigeria,3900,2023-07-23 05:00:00,2023-07-23 10:33:00,Cancelled,384361
+FL00281,Air Peace,Lagos,Nigeria,Casablanca,Morocco,4010,2023-07-24 13:15:00,2023-07-24 19:04:00,On-Time,377604
+FL00282,Arik Air,Lagos,Nigeria,Dakar,Senegal,2832,2023-07-25 15:45:00,2023-07-25 19:48:00,On-Time,262868
+FL00283,Kenya Airways,Lusaka,Zambia,Cairo,Egypt,4800,2023-07-26 20:15:00,2023-07-27 03:11:00,On-Time,469778
+FL00284,Dana Air,Lagos,Nigeria,Abuja,Nigeria,533,2023-07-26 11:15:00,2023-07-26 12:52:00,On-Time,60220
+FL00285,Air Peace,Nairobi,Kenya,Johannesburg,South Africa,2723,2023-07-27 14:45:00,2023-07-27 18:56:00,Delayed,266311
+FL00286,Kenya Airways,Dar es Salaam,Tanzania,Port Harcourt,Nigeria,4100,2023-07-28 07:15:00,2023-07-28 12:50:00,On-Time,387996
+FL00287,Arik Air,Douala,Cameroon,Dakar,Senegal,3100,2023-07-28 22:15:00,2023-07-29 02:57:00,On-Time,284220
+FL00288,EgyptAir,Johannesburg,South Africa,Nairobi,Kenya,2723,2023-07-29 17:00:00,2023-07-29 20:53:00,Delayed,261869
+FL00289,EgyptAir,Casablanca,Morocco,Douala,Cameroon,3800,2023-07-30 11:00:00,2023-07-30 16:21:00,On-Time,359685
+FL00290,EgyptAir,Johannesburg,South Africa,Cairo,Egypt,6261,2023-07-31 08:45:00,2023-07-31 17:01:00,On-Time,587486
+FL00291,Kenya Airways,Addis Ababa,Ethiopia,Casablanca,Morocco,5000,2023-07-31 17:00:00,2023-07-31 23:49:00,Delayed,484607
+FL00292,Ethiopian Airlines,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2023-08-01 05:00:00,2023-08-01 10:29:00,Delayed,362449
+FL00293,EgyptAir,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2023-08-02 12:15:00,2023-08-02 17:13:00,On-Time,343386
+FL00294,EgyptAir,Lagos,Nigeria,Kano,Nigeria,1054,2023-08-03 18:30:00,2023-08-03 20:48:00,On-Time,102850
+FL00295,Kenya Airways,Johannesburg,South Africa,Lusaka,Zambia,1160,2023-08-03 20:00:00,2023-08-03 22:24:00,Cancelled,115775
+FL00296,Arik Air,Abuja,Nigeria,Cairo,Egypt,3224,2023-08-04 18:30:00,2023-08-04 23:06:00,Delayed,299429
+FL00297,Ethiopian Airlines,Addis Ababa,Ethiopia,Casablanca,Morocco,5000,2023-08-05 16:00:00,2023-08-05 23:00:00,On-Time,488277
+FL00298,Ethiopian Airlines,Douala,Cameroon,Enugu,Nigeria,600,2023-08-06 19:00:00,2023-08-06 20:03:00,On-Time,65583
+FL00299,Ethiopian Airlines,Dar es Salaam,Tanzania,Cairo,Egypt,3600,2023-08-06 06:45:00,2023-08-06 12:06:00,On-Time,357695
+FL00300,Dana Air,Enugu,Nigeria,Casablanca,Morocco,3900,2023-08-07 06:45:00,2023-08-07 11:56:00,On-Time,354560
+FL00301,Kenya Airways,Addis Ababa,Ethiopia,Port Harcourt,Nigeria,3570,2023-08-08 21:45:00,2023-08-09 02:42:00,On-Time,339186
+FL00302,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2023-08-08 14:30:00,2023-08-08 19:41:00,On-Time,338628
+FL00303,EgyptAir,Addis Ababa,Ethiopia,Kano,Nigeria,3020,2023-08-09 10:15:00,2023-08-09 14:59:00,On-Time,301989
+FL00304,Air Peace,Abuja,Nigeria,Lusaka,Zambia,3980,2023-08-10 19:00:00,2023-08-11 00:27:00,On-Time,382746
+FL00305,Arik Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2023-08-11 15:00:00,2023-08-11 16:01:00,On-Time,58172
+FL00306,Ethiopian Airlines,Johannesburg,South Africa,Addis Ababa,Ethiopia,3670,2023-08-11 09:00:00,2023-08-11 14:14:00,On-Time,367862
+FL00307,Arik Air,Lagos,Nigeria,Abuja,Nigeria,533,2023-08-12 05:30:00,2023-08-12 06:34:00,Delayed,71068
+FL00308,Ethiopian Airlines,Dar es Salaam,Tanzania,Dakar,Senegal,6200,2023-08-13 12:45:00,2023-08-13 21:11:00,On-Time,604521
+FL00309,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2023-08-14 16:15:00,2023-08-14 21:25:00,Delayed,325797
+FL00310,Kenya Airways,Lagos,Nigeria,Douala,Cameroon,1060,2023-08-14 16:30:00,2023-08-14 18:40:00,On-Time,121386
+FL00311,Arik Air,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2023-08-15 09:45:00,2023-08-15 15:20:00,On-Time,365198
+FL00312,EgyptAir,Nairobi,Kenya,Douala,Cameroon,3200,2023-08-16 11:30:00,2023-08-16 15:50:00,On-Time,316054
+FL00313,Dana Air,Enugu,Nigeria,Lagos,Nigeria,478,2023-08-16 08:15:00,2023-08-16 09:26:00,Delayed,57957
+FL00314,Kenya Airways,Dar es Salaam,Tanzania,Abuja,Nigeria,4050,2023-08-17 10:45:00,2023-08-17 16:39:00,On-Time,401109
+FL00315,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-08-18 17:30:00,2023-08-18 23:25:00,On-Time,382317
+FL00316,Kenya Airways,Lagos,Nigeria,Douala,Cameroon,1060,2023-08-19 19:15:00,2023-08-19 21:15:00,On-Time,107412
+FL00317,Ethiopian Airlines,Lusaka,Zambia,Nairobi,Kenya,1860,2023-08-19 07:00:00,2023-08-19 09:39:00,Cancelled,195626
+FL00318,EgyptAir,Johannesburg,South Africa,Lusaka,Zambia,1160,2023-08-20 12:15:00,2023-08-20 14:18:00,Delayed,121899
+FL00319,Ethiopian Airlines,Lusaka,Zambia,Kano,Nigeria,3700,2023-08-21 20:00:00,2023-08-22 01:23:00,Delayed,374733
+FL00320,Arik Air,Douala,Cameroon,Lusaka,Zambia,3600,2023-08-22 17:30:00,2023-08-22 22:52:00,On-Time,338389
+FL00321,Air Peace,Accra,Ghana,Casablanca,Morocco,3300,2023-08-22 22:45:00,2023-08-23 03:52:00,On-Time,307141
+FL00322,Kenya Airways,Accra,Ghana,Enugu,Nigeria,700,2023-08-23 14:45:00,2023-08-23 16:01:00,On-Time,82378
+FL00323,Arik Air,Abuja,Nigeria,Casablanca,Morocco,3680,2023-08-24 21:30:00,2023-08-25 02:35:00,On-Time,338008
+FL00324,Dana Air,Abuja,Nigeria,Addis Ababa,Ethiopia,3390,2023-08-25 09:45:00,2023-08-25 14:28:00,On-Time,306572
+FL00325,Air Peace,Kano,Nigeria,Nairobi,Kenya,3318,2023-08-25 13:45:00,2023-08-25 18:35:00,Delayed,308930
+FL00326,Air Peace,Kano,Nigeria,Enugu,Nigeria,650,2023-08-26 16:00:00,2023-08-26 17:47:00,On-Time,70763
+FL00327,Dana Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-08-27 05:30:00,2023-08-27 10:54:00,Delayed,350364
+FL00328,Arik Air,Kano,Nigeria,Johannesburg,South Africa,4118,2023-08-27 05:15:00,2023-08-27 10:50:00,On-Time,371741
+FL00329,Ethiopian Airlines,Johannesburg,South Africa,Enugu,Nigeria,4100,2023-08-28 19:00:00,2023-08-29 01:01:00,Delayed,412787
+FL00330,Kenya Airways,Cairo,Egypt,Lagos,Nigeria,4020,2023-08-29 06:30:00,2023-08-29 12:02:00,On-Time,398415
+FL00331,Ethiopian Airlines,Nairobi,Kenya,Lagos,Nigeria,4182,2023-08-30 20:00:00,2023-08-31 01:32:00,Delayed,421209
+FL00332,EgyptAir,Casablanca,Morocco,Lagos,Nigeria,4010,2023-08-30 12:15:00,2023-08-30 18:14:00,On-Time,388131
+FL00333,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2023-08-31 17:15:00,2023-08-31 18:51:00,On-Time,65537
+FL00334,Dana Air,Enugu,Nigeria,Lagos,Nigeria,478,2023-09-01 05:30:00,2023-09-01 06:36:00,On-Time,46629
+FL00335,Kenya Airways,Lusaka,Zambia,Douala,Cameroon,3600,2023-09-02 20:15:00,2023-09-03 01:26:00,On-Time,344786
+FL00336,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-09-02 11:00:00,2023-09-02 16:42:00,On-Time,385132
+FL00337,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2023-09-03 09:15:00,2023-09-03 14:49:00,On-Time,369036
+FL00338,Dana Air,Abuja,Nigeria,Cairo,Egypt,3224,2023-09-04 07:00:00,2023-09-04 11:57:00,On-Time,283599
+FL00339,Ethiopian Airlines,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2023-09-04 16:00:00,2023-09-04 21:08:00,On-Time,387843
+FL00340,Air Peace,Accra,Ghana,Lagos,Nigeria,397,2023-09-05 20:15:00,2023-09-05 21:20:00,Delayed,46991
+FL00341,Dana Air,Lagos,Nigeria,Douala,Cameroon,1060,2023-09-06 09:30:00,2023-09-06 11:11:00,On-Time,107353
+FL00342,Ethiopian Airlines,Addis Ababa,Ethiopia,Lusaka,Zambia,2520,2023-09-07 18:45:00,2023-09-07 22:44:00,Delayed,256902
+FL00343,EgyptAir,Dakar,Senegal,Kano,Nigeria,2400,2023-09-07 09:15:00,2023-09-07 13:05:00,On-Time,240966
+FL00344,Arik Air,Lagos,Nigeria,Johannesburg,South Africa,4590,2023-09-08 19:00:00,2023-09-09 01:02:00,On-Time,409121
+FL00345,Air Peace,Abuja,Nigeria,Addis Ababa,Ethiopia,3390,2023-09-09 21:00:00,2023-09-10 01:55:00,Cancelled,312088
+FL00346,Arik Air,Abuja,Nigeria,Enugu,Nigeria,330,2023-09-10 18:15:00,2023-09-10 19:15:00,On-Time,41202
+FL00347,Dana Air,Abuja,Nigeria,Kano,Nigeria,316,2023-09-10 09:30:00,2023-09-10 10:31:00,On-Time,37615
+FL00348,Arik Air,Douala,Cameroon,Nairobi,Kenya,3200,2023-09-11 16:30:00,2023-09-11 20:54:00,On-Time,288118
+FL00349,EgyptAir,Nairobi,Kenya,Casablanca,Morocco,5900,2023-09-12 20:00:00,2023-09-13 03:58:00,Delayed,551354
+FL00350,Arik Air,Douala,Cameroon,Enugu,Nigeria,600,2023-09-13 20:00:00,2023-09-13 21:03:00,Cancelled,59542
+FL00351,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-09-13 11:30:00,2023-09-13 17:35:00,On-Time,378687
+FL00352,Dana Air,Port Harcourt,Nigeria,Casablanca,Morocco,4100,2023-09-14 08:45:00,2023-09-14 14:35:00,Delayed,362780
+FL00353,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2023-09-15 05:15:00,2023-09-15 10:57:00,Cancelled,370412
+FL00354,Dana Air,Enugu,Nigeria,Casablanca,Morocco,3900,2023-09-15 09:00:00,2023-09-15 14:42:00,On-Time,355345
+FL00355,Air Peace,Enugu,Nigeria,Dar es Salaam,Tanzania,4200,2023-09-16 14:00:00,2023-09-16 19:59:00,On-Time,396318
+FL00356,Air Peace,Lagos,Nigeria,Enugu,Nigeria,478,2023-09-17 09:30:00,2023-09-17 11:03:00,On-Time,59356
+FL00357,Kenya Airways,Accra,Ghana,Dakar,Senegal,2100,2023-09-18 08:15:00,2023-09-18 11:41:00,On-Time,205585
+FL00358,Air Peace,Abuja,Nigeria,Kano,Nigeria,316,2023-09-18 06:30:00,2023-09-18 07:42:00,On-Time,51603
+FL00359,Dana Air,Enugu,Nigeria,Johannesburg,South Africa,4100,2023-09-19 14:15:00,2023-09-19 19:58:00,On-Time,357176
+FL00360,Dana Air,Lagos,Nigeria,Casablanca,Morocco,4010,2023-09-20 05:15:00,2023-09-20 10:34:00,On-Time,357898
+FL00361,Dana Air,Lagos,Nigeria,Johannesburg,South Africa,4590,2023-09-21 09:15:00,2023-09-21 15:27:00,Delayed,405428
+FL00362,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2023-09-21 17:00:00,2023-09-21 21:57:00,Cancelled,343119
+FL00363,Air Peace,Lagos,Nigeria,Douala,Cameroon,1060,2023-09-22 08:45:00,2023-09-22 10:33:00,On-Time,115031
+FL00364,Dana Air,Enugu,Nigeria,Abuja,Nigeria,330,2023-09-23 20:30:00,2023-09-23 21:43:00,On-Time,34601
+FL00365,Arik Air,Douala,Cameroon,Addis Ababa,Ethiopia,2800,2023-09-23 20:45:00,2023-09-24 01:08:00,Delayed,255770
+FL00366,Ethiopian Airlines,Accra,Ghana,Douala,Cameroon,1200,2023-09-24 06:30:00,2023-09-24 08:34:00,On-Time,120014
+FL00367,Dana Air,Kano,Nigeria,Douala,Cameroon,950,2023-09-25 21:15:00,2023-09-25 22:59:00,Cancelled,93774
+FL00368,Air Peace,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2023-09-26 16:00:00,2023-09-26 22:03:00,Delayed,392257
+FL00369,Dana Air,Enugu,Nigeria,Abuja,Nigeria,330,2023-09-26 22:45:00,2023-09-26 23:54:00,On-Time,38357
+FL00370,EgyptAir,Casablanca,Morocco,Cairo,Egypt,3200,2023-09-27 07:00:00,2023-09-27 11:36:00,On-Time,305068
+FL00371,Ethiopian Airlines,Nairobi,Kenya,Abuja,Nigeria,3714,2023-09-28 05:30:00,2023-09-28 10:47:00,Delayed,365182
+FL00372,Kenya Airways,Dar es Salaam,Tanzania,Nairobi,Kenya,524,2023-09-29 05:00:00,2023-09-29 06:18:00,On-Time,61735
+FL00373,Ethiopian Airlines,Addis Ababa,Ethiopia,Cairo,Egypt,2185,2023-09-29 15:00:00,2023-09-29 18:31:00,On-Time,220887
+FL00374,Air Peace,Accra,Ghana,Nairobi,Kenya,4808,2023-09-30 09:45:00,2023-09-30 16:08:00,On-Time,439752
+FL00375,Arik Air,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2023-10-01 16:15:00,2023-10-01 21:57:00,Delayed,363366
+FL00376,Ethiopian Airlines,Cairo,Egypt,Kano,Nigeria,2887,2023-10-02 07:00:00,2023-10-02 11:28:00,On-Time,281452
+FL00377,Ethiopian Airlines,Accra,Ghana,Dakar,Senegal,2100,2023-10-02 05:15:00,2023-10-02 08:32:00,On-Time,218887
+FL00378,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2023-10-03 05:30:00,2023-10-03 10:34:00,Delayed,353748
+FL00379,Ethiopian Airlines,Addis Ababa,Ethiopia,Dakar,Senegal,4800,2023-10-04 12:00:00,2023-10-04 18:29:00,On-Time,467972
+FL00380,Air Peace,Accra,Ghana,Kano,Nigeria,1382,2023-10-04 14:45:00,2023-10-04 17:21:00,On-Time,131852
+FL00381,EgyptAir,Johannesburg,South Africa,Dakar,Senegal,6500,2023-10-05 15:30:00,2023-10-06 00:32:00,On-Time,619322
+FL00382,EgyptAir,Cairo,Egypt,Nairobi,Kenya,3637,2023-10-06 16:30:00,2023-10-06 21:33:00,On-Time,342304
+FL00383,EgyptAir,Nairobi,Kenya,Cairo,Egypt,3637,2023-10-07 17:45:00,2023-10-07 22:53:00,Delayed,356584
+FL00384,Arik Air,Accra,Ghana,Nairobi,Kenya,4808,2023-10-07 16:00:00,2023-10-07 22:51:00,On-Time,441149
+FL00385,Air Peace,Accra,Ghana,Lagos,Nigeria,397,2023-10-08 18:00:00,2023-10-08 19:05:00,Delayed,49420
+FL00386,EgyptAir,Casablanca,Morocco,Johannesburg,South Africa,7200,2023-10-09 06:30:00,2023-10-09 16:14:00,On-Time,680945
+FL00387,Ethiopian Airlines,Lagos,Nigeria,Cairo,Egypt,4020,2023-10-10 22:00:00,2023-10-11 03:29:00,On-Time,401353
+FL00388,EgyptAir,Nairobi,Kenya,Accra,Ghana,4808,2023-10-10 07:15:00,2023-10-10 13:59:00,On-Time,462870
+FL00389,Air Peace,Accra,Ghana,Lagos,Nigeria,397,2023-10-11 21:45:00,2023-10-11 22:55:00,Delayed,45827
+FL00390,Air Peace,Enugu,Nigeria,Abuja,Nigeria,330,2023-10-12 12:15:00,2023-10-12 13:11:00,On-Time,36620
+FL00391,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-10-12 14:00:00,2023-10-12 20:24:00,On-Time,412164
+FL00392,Arik Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-10-13 06:30:00,2023-10-13 11:54:00,Delayed,374570
+FL00393,Arik Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-10-14 13:45:00,2023-10-14 19:22:00,On-Time,371576
+FL00394,Dana Air,Lagos,Nigeria,Casablanca,Morocco,4010,2023-10-15 11:00:00,2023-10-15 16:38:00,On-Time,349550
+FL00395,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2023-10-15 08:00:00,2023-10-15 13:58:00,Delayed,358538
+FL00396,Air Peace,Enugu,Nigeria,Johannesburg,South Africa,4100,2023-10-16 22:30:00,2023-10-17 04:32:00,On-Time,385186
+FL00397,EgyptAir,Cairo,Egypt,Addis Ababa,Ethiopia,2185,2023-10-17 17:30:00,2023-10-17 20:50:00,On-Time,211077
+FL00398,Air Peace,Enugu,Nigeria,Kano,Nigeria,650,2023-10-18 15:15:00,2023-10-18 16:22:00,On-Time,65604
+FL00399,Arik Air,Kano,Nigeria,Abuja,Nigeria,316,2023-10-18 08:45:00,2023-10-18 09:29:00,Delayed,35571
+FL00400,Air Peace,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2023-10-19 08:45:00,2023-10-19 14:33:00,Cancelled,378177
+FL00401,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-10-20 14:30:00,2023-10-20 21:07:00,On-Time,413508
+FL00402,Dana Air,Abuja,Nigeria,Lusaka,Zambia,3980,2023-10-21 09:15:00,2023-10-21 14:50:00,On-Time,351697
+FL00403,Dana Air,Port Harcourt,Nigeria,Casablanca,Morocco,4100,2023-10-21 13:45:00,2023-10-21 19:26:00,On-Time,364358
+FL00404,Dana Air,Kano,Nigeria,Abuja,Nigeria,316,2023-10-22 07:30:00,2023-10-22 08:39:00,On-Time,46543
+FL00405,Ethiopian Airlines,Nairobi,Kenya,Lusaka,Zambia,1860,2023-10-23 21:00:00,2023-10-23 23:41:00,On-Time,198333
+FL00406,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-10-23 07:45:00,2023-10-23 13:55:00,Delayed,412763
+FL00407,Air Peace,Kano,Nigeria,Nairobi,Kenya,3318,2023-10-24 20:15:00,2023-10-25 00:50:00,Delayed,306238
+FL00408,Ethiopian Airlines,Douala,Cameroon,Casablanca,Morocco,3800,2023-10-25 08:15:00,2023-10-25 13:34:00,On-Time,376966
+FL00409,Dana Air,Enugu,Nigeria,Dakar,Senegal,3100,2023-10-26 22:15:00,2023-10-27 03:02:00,On-Time,287775
+FL00410,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2023-10-26 21:00:00,2023-10-27 03:25:00,On-Time,417999
+FL00411,Dana Air,Lagos,Nigeria,Accra,Ghana,397,2023-10-27 11:45:00,2023-10-27 12:57:00,Delayed,49718
+FL00412,Ethiopian Airlines,Addis Ababa,Ethiopia,Dakar,Senegal,4800,2023-10-28 09:45:00,2023-10-28 16:32:00,On-Time,461857
+FL00413,Arik Air,Douala,Cameroon,Lagos,Nigeria,1060,2023-10-29 16:00:00,2023-10-29 17:48:00,Delayed,102614
+FL00414,Dana Air,Kano,Nigeria,Douala,Cameroon,950,2023-10-29 21:45:00,2023-10-29 23:23:00,On-Time,90001
+FL00415,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2023-10-30 17:00:00,2023-10-30 20:57:00,On-Time,273357
+FL00416,Arik Air,Dakar,Senegal,Enugu,Nigeria,3100,2023-10-31 07:00:00,2023-10-31 11:44:00,Delayed,287806
+FL00417,EgyptAir,Accra,Ghana,Port Harcourt,Nigeria,730,2023-10-31 13:00:00,2023-10-31 14:45:00,Delayed,88704
+FL00418,Ethiopian Airlines,Accra,Ghana,Lagos,Nigeria,397,2023-11-01 21:15:00,2023-11-01 22:22:00,On-Time,57943
+FL00419,Kenya Airways,Lusaka,Zambia,Kano,Nigeria,3700,2023-11-02 21:45:00,2023-11-03 03:15:00,On-Time,367321
+FL00420,Arik Air,Douala,Cameroon,Accra,Ghana,1200,2023-11-03 20:00:00,2023-11-03 22:25:00,Delayed,126703
+FL00421,Kenya Airways,Cairo,Egypt,Accra,Ghana,4383,2023-11-03 17:45:00,2023-11-03 23:59:00,On-Time,428242
+FL00422,Dana Air,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2023-11-04 21:15:00,2023-11-05 02:51:00,Cancelled,342627
+FL00423,Dana Air,Enugu,Nigeria,Casablanca,Morocco,3900,2023-11-05 08:00:00,2023-11-05 13:44:00,Delayed,340960
+FL00424,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2023-11-06 16:30:00,2023-11-06 21:38:00,Cancelled,330198
+FL00425,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2023-11-06 13:15:00,2023-11-06 14:38:00,On-Time,66894
+FL00426,Dana Air,Abuja,Nigeria,Lagos,Nigeria,533,2023-11-07 16:30:00,2023-11-07 17:59:00,On-Time,54144
+FL00427,Dana Air,Abuja,Nigeria,Port Harcourt,Nigeria,476,2023-11-08 13:45:00,2023-11-08 15:18:00,On-Time,56236
+FL00428,Ethiopian Airlines,Cairo,Egypt,Casablanca,Morocco,3200,2023-11-09 11:45:00,2023-11-09 16:31:00,On-Time,314395
+FL00429,Dana Air,Kano,Nigeria,Douala,Cameroon,950,2023-11-09 18:15:00,2023-11-09 19:59:00,On-Time,89012
+FL00430,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2023-11-10 19:45:00,2023-11-10 21:10:00,On-Time,65482
+FL00431,Arik Air,Port Harcourt,Nigeria,Addis Ababa,Ethiopia,3570,2023-11-11 20:30:00,2023-11-12 01:40:00,On-Time,338505
+FL00432,Dana Air,Abuja,Nigeria,Accra,Ghana,1055,2023-11-11 09:00:00,2023-11-11 11:16:00,On-Time,98391
+FL00433,Air Peace,Kano,Nigeria,Johannesburg,South Africa,4118,2023-11-12 07:00:00,2023-11-12 12:54:00,On-Time,385686
+FL00434,Air Peace,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2023-11-13 16:00:00,2023-11-13 21:28:00,On-Time,366481
+FL00435,Arik Air,Dakar,Senegal,Lagos,Nigeria,2832,2023-11-14 08:15:00,2023-11-14 12:40:00,On-Time,265883
+FL00436,Arik Air,Lagos,Nigeria,Cairo,Egypt,4020,2023-11-14 20:45:00,2023-11-15 02:11:00,On-Time,360079
+FL00437,EgyptAir,Nairobi,Kenya,Douala,Cameroon,3200,2023-11-15 11:30:00,2023-11-15 16:26:00,On-Time,304613
+FL00438,Kenya Airways,Lagos,Nigeria,Kano,Nigeria,1054,2023-11-16 17:45:00,2023-11-16 19:46:00,On-Time,112824
+FL00439,Ethiopian Airlines,Accra,Ghana,Casablanca,Morocco,3300,2023-11-17 14:45:00,2023-11-17 19:12:00,On-Time,331083
+FL00440,Arik Air,Douala,Cameroon,Lagos,Nigeria,1060,2023-11-17 11:45:00,2023-11-17 13:47:00,Delayed,111735
+FL00441,EgyptAir,Lagos,Nigeria,Casablanca,Morocco,4010,2023-11-18 18:00:00,2023-11-18 23:27:00,Delayed,375182
+FL00442,Dana Air,Enugu,Nigeria,Cairo,Egypt,3700,2023-11-19 09:30:00,2023-11-19 14:37:00,Delayed,338143
+FL00443,Kenya Airways,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2023-11-19 07:30:00,2023-11-19 13:03:00,Cancelled,364838
+FL00444,Kenya Airways,Accra,Ghana,Douala,Cameroon,1200,2023-11-20 15:45:00,2023-11-20 17:47:00,On-Time,122350
+FL00445,Ethiopian Airlines,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2023-11-21 15:00:00,2023-11-21 20:43:00,Cancelled,372866
+FL00446,Arik Air,Abuja,Nigeria,Cairo,Egypt,3224,2023-11-22 22:00:00,2023-11-23 02:28:00,On-Time,292857
+FL00447,EgyptAir,Accra,Ghana,Dakar,Senegal,2100,2023-11-22 19:30:00,2023-11-22 22:28:00,On-Time,217739
+FL00448,Dana Air,Enugu,Nigeria,Douala,Cameroon,600,2023-11-23 16:00:00,2023-11-23 17:09:00,On-Time,60331
+FL00449,Dana Air,Enugu,Nigeria,Douala,Cameroon,600,2023-11-24 13:00:00,2023-11-24 14:03:00,Delayed,67803
+FL00450,Air Peace,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2023-11-25 14:00:00,2023-11-25 19:23:00,Cancelled,368057
+FL00451,EgyptAir,Nairobi,Kenya,Abuja,Nigeria,3714,2023-11-25 16:15:00,2023-11-25 21:25:00,Delayed,358846
+FL00452,EgyptAir,Casablanca,Morocco,Addis Ababa,Ethiopia,5000,2023-11-26 21:45:00,2023-11-27 04:47:00,On-Time,475692
+FL00453,EgyptAir,Casablanca,Morocco,Cairo,Egypt,3200,2023-11-27 10:30:00,2023-11-27 15:00:00,On-Time,318967
+FL00454,Ethiopian Airlines,Lagos,Nigeria,Abuja,Nigeria,533,2023-11-28 11:30:00,2023-11-28 12:46:00,Cancelled,63292
+FL00455,Air Peace,Nairobi,Kenya,Dakar,Senegal,5600,2023-11-28 18:15:00,2023-11-29 01:44:00,On-Time,514208
+FL00456,Arik Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2023-11-29 17:45:00,2023-11-29 23:20:00,Delayed,348886
+FL00457,Kenya Airways,Nairobi,Kenya,Johannesburg,South Africa,2723,2023-11-30 12:30:00,2023-11-30 16:51:00,On-Time,265363
+FL00458,Arik Air,Accra,Ghana,Johannesburg,South Africa,4922,2023-11-30 14:00:00,2023-11-30 20:47:00,On-Time,455754
+FL00459,Ethiopian Airlines,Lagos,Nigeria,Johannesburg,South Africa,4590,2023-12-01 13:30:00,2023-12-01 20:08:00,On-Time,446608
+FL00460,Ethiopian Airlines,Douala,Cameroon,Lusaka,Zambia,3600,2023-12-02 22:00:00,2023-12-03 03:25:00,Delayed,349032
+FL00461,Kenya Airways,Accra,Ghana,Kano,Nigeria,1382,2023-12-03 06:15:00,2023-12-03 08:47:00,On-Time,133795
+FL00462,EgyptAir,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2023-12-03 09:00:00,2023-12-03 10:20:00,On-Time,54903
+FL00463,Dana Air,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2023-12-04 09:30:00,2023-12-04 14:52:00,On-Time,343911
+FL00464,Arik Air,Douala,Cameroon,Dar es Salaam,Tanzania,3500,2023-12-05 10:30:00,2023-12-05 15:34:00,On-Time,327520
+FL00465,EgyptAir,Lagos,Nigeria,Port Harcourt,Nigeria,443,2023-12-06 12:30:00,2023-12-06 14:00:00,Delayed,52999
+FL00466,Air Peace,Kano,Nigeria,Lusaka,Zambia,3700,2023-12-06 20:15:00,2023-12-07 01:43:00,On-Time,357800
+FL00467,Air Peace,Nairobi,Kenya,Douala,Cameroon,3200,2023-12-07 17:15:00,2023-12-07 21:54:00,On-Time,304669
+FL00468,Ethiopian Airlines,Nairobi,Kenya,Lagos,Nigeria,4182,2023-12-08 05:45:00,2023-12-08 11:42:00,Delayed,412455
+FL00469,Ethiopian Airlines,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2023-12-08 21:30:00,2023-12-09 02:51:00,On-Time,374449
+FL00470,Arik Air,Kano,Nigeria,Lusaka,Zambia,3700,2023-12-09 11:00:00,2023-12-09 16:35:00,On-Time,330914
+FL00471,Arik Air,Dakar,Senegal,Casablanca,Morocco,2000,2023-12-10 17:15:00,2023-12-10 20:27:00,On-Time,189347
+FL00472,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2023-12-11 08:30:00,2023-12-11 13:45:00,On-Time,347104
+FL00473,EgyptAir,Dakar,Senegal,Lusaka,Zambia,5900,2023-12-11 08:30:00,2023-12-11 16:42:00,On-Time,548917
+FL00474,Arik Air,Accra,Ghana,Casablanca,Morocco,3300,2023-12-12 10:15:00,2023-12-12 14:41:00,On-Time,309278
+FL00475,Air Peace,Kano,Nigeria,Enugu,Nigeria,650,2023-12-13 16:45:00,2023-12-13 18:19:00,On-Time,66935
+FL00476,Kenya Airways,Cairo,Egypt,Port Harcourt,Nigeria,3821,2023-12-14 11:15:00,2023-12-14 16:31:00,Delayed,363049
+FL00477,EgyptAir,Dakar,Senegal,Lagos,Nigeria,2832,2023-12-14 14:15:00,2023-12-14 18:38:00,Delayed,269335
+FL00478,Air Peace,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2023-12-15 11:00:00,2023-12-15 12:27:00,On-Time,70234
+FL00479,EgyptAir,Nairobi,Kenya,Lagos,Nigeria,4182,2023-12-16 07:00:00,2023-12-16 12:57:00,On-Time,404942
+FL00480,Air Peace,Lagos,Nigeria,Dakar,Senegal,2832,2023-12-17 17:45:00,2023-12-17 22:03:00,On-Time,269663
+FL00481,EgyptAir,Lagos,Nigeria,Kano,Nigeria,1054,2023-12-17 17:30:00,2023-12-17 19:20:00,Delayed,106885
+FL00482,Air Peace,Lagos,Nigeria,Port Harcourt,Nigeria,443,2023-12-18 22:15:00,2023-12-18 23:23:00,On-Time,57261
+FL00483,Dana Air,Port Harcourt,Nigeria,Casablanca,Morocco,4100,2023-12-19 12:45:00,2023-12-19 18:36:00,Delayed,354551
+FL00484,Arik Air,Douala,Cameroon,Addis Ababa,Ethiopia,2800,2023-12-19 13:00:00,2023-12-19 17:13:00,On-Time,263389
+FL00485,Arik Air,Lagos,Nigeria,Casablanca,Morocco,4010,2023-12-20 11:15:00,2023-12-20 16:48:00,On-Time,361239
+FL00486,Air Peace,Lagos,Nigeria,Enugu,Nigeria,478,2023-12-21 05:30:00,2023-12-21 06:50:00,Cancelled,62350
+FL00487,Ethiopian Airlines,Addis Ababa,Ethiopia,Dakar,Senegal,4800,2023-12-22 07:00:00,2023-12-22 13:32:00,Delayed,474255
+FL00488,Arik Air,Port Harcourt,Nigeria,Addis Ababa,Ethiopia,3570,2023-12-22 17:00:00,2023-12-22 21:48:00,On-Time,330311
+FL00489,Ethiopian Airlines,Accra,Ghana,Addis Ababa,Ethiopia,4200,2023-12-23 21:00:00,2023-12-24 03:13:00,On-Time,409698
+FL00490,Arik Air,Douala,Cameroon,Nairobi,Kenya,3200,2023-12-24 05:45:00,2023-12-24 10:30:00,Delayed,297873
+FL00491,Dana Air,Kano,Nigeria,Accra,Ghana,1382,2023-12-25 10:30:00,2023-12-25 13:05:00,Delayed,133173
+FL00492,Air Peace,Nairobi,Kenya,Kano,Nigeria,3318,2023-12-25 10:15:00,2023-12-25 14:50:00,Delayed,319261
+FL00493,Arik Air,Dakar,Senegal,Abuja,Nigeria,2600,2023-12-26 16:45:00,2023-12-26 20:55:00,Cancelled,236030
+FL00494,Air Peace,Accra,Ghana,Johannesburg,South Africa,4922,2023-12-27 17:45:00,2023-12-28 00:42:00,Cancelled,461252
+FL00495,Ethiopian Airlines,Addis Ababa,Ethiopia,Port Harcourt,Nigeria,3570,2023-12-27 17:45:00,2023-12-27 22:35:00,Delayed,357321
+FL00496,EgyptAir,Johannesburg,South Africa,Dakar,Senegal,6500,2023-12-28 19:00:00,2023-12-29 03:38:00,On-Time,612175
+FL00497,Air Peace,Abuja,Nigeria,Nairobi,Kenya,3714,2023-12-29 20:30:00,2023-12-30 01:41:00,On-Time,347922
+FL00498,Ethiopian Airlines,Nairobi,Kenya,Enugu,Nigeria,3800,2023-12-30 15:45:00,2023-12-30 21:22:00,On-Time,375878
+FL00499,Dana Air,Abuja,Nigeria,Dakar,Senegal,2600,2023-12-30 09:15:00,2023-12-30 13:01:00,On-Time,230298
+FL00500,Kenya Airways,Lusaka,Zambia,Enugu,Nigeria,4000,2023-12-31 08:30:00,2023-12-31 13:52:00,On-Time,391391
+FL00501,Dana Air,Enugu,Nigeria,Addis Ababa,Ethiopia,3450,2024-01-01 07:15:00,2024-01-01 12:00:00,On-Time,312261
+FL00502,Dana Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2024-01-02 22:30:00,2024-01-03 03:42:00,Delayed,338956
+FL00503,Dana Air,Enugu,Nigeria,Lusaka,Zambia,4000,2024-01-02 19:15:00,2024-01-03 01:07:00,Cancelled,363888
+FL00504,Arik Air,Accra,Ghana,Cairo,Egypt,4383,2024-01-03 13:00:00,2024-01-03 19:01:00,On-Time,392291
+FL00505,Air Peace,Port Harcourt,Nigeria,Lagos,Nigeria,443,2024-01-04 21:45:00,2024-01-04 22:55:00,On-Time,55220
+FL00506,Air Peace,Lagos,Nigeria,Johannesburg,South Africa,4590,2024-01-05 18:15:00,2024-01-06 00:41:00,On-Time,423554
+FL00507,Air Peace,Accra,Ghana,Nairobi,Kenya,4808,2024-01-05 19:30:00,2024-01-06 02:26:00,Delayed,444565
+FL00508,Air Peace,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2024-01-06 05:45:00,2024-01-06 11:00:00,On-Time,365176
+FL00509,EgyptAir,Johannesburg,South Africa,Nairobi,Kenya,2723,2024-01-07 07:45:00,2024-01-07 11:50:00,On-Time,271971
+FL00510,Kenya Airways,Cairo,Egypt,Nairobi,Kenya,3637,2024-01-07 20:30:00,2024-01-08 01:52:00,Delayed,345703
+FL00511,Kenya Airways,Lusaka,Zambia,Kano,Nigeria,3700,2024-01-08 15:15:00,2024-01-08 20:11:00,Delayed,349506
+FL00512,Air Peace,Abuja,Nigeria,Dakar,Senegal,2600,2024-01-09 16:00:00,2024-01-09 20:12:00,On-Time,243485
+FL00513,EgyptAir,Addis Ababa,Ethiopia,Abuja,Nigeria,3390,2024-01-10 14:00:00,2024-01-10 19:13:00,On-Time,321501
+FL00514,EgyptAir,Johannesburg,South Africa,Addis Ababa,Ethiopia,3670,2024-01-10 20:15:00,2024-01-11 01:25:00,On-Time,354946
+FL00515,Dana Air,Port Harcourt,Nigeria,Kano,Nigeria,793,2024-01-11 12:45:00,2024-01-11 14:05:00,On-Time,90424
+FL00516,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-01-12 10:45:00,2024-01-12 16:40:00,On-Time,363948
+FL00517,Arik Air,Lagos,Nigeria,Port Harcourt,Nigeria,443,2024-01-13 16:45:00,2024-01-13 17:51:00,On-Time,59145
+FL00518,EgyptAir,Johannesburg,South Africa,Douala,Cameroon,3900,2024-01-13 12:45:00,2024-01-13 18:03:00,On-Time,368627
+FL00519,EgyptAir,Nairobi,Kenya,Lusaka,Zambia,1860,2024-01-14 08:15:00,2024-01-14 11:01:00,On-Time,181433
+FL00520,Dana Air,Kano,Nigeria,Johannesburg,South Africa,4118,2024-01-15 12:45:00,2024-01-15 18:24:00,Delayed,358605
+FL00521,Ethiopian Airlines,Cairo,Egypt,Addis Ababa,Ethiopia,2185,2024-01-15 22:30:00,2024-01-16 01:58:00,On-Time,231804
+FL00522,Arik Air,Douala,Cameroon,Abuja,Nigeria,870,2024-01-16 09:45:00,2024-01-16 11:10:00,Delayed,98366
+FL00523,Ethiopian Airlines,Nairobi,Kenya,Casablanca,Morocco,5900,2024-01-17 13:00:00,2024-01-17 21:18:00,Delayed,576089
+FL00524,EgyptAir,Accra,Ghana,Dakar,Senegal,2100,2024-01-18 08:45:00,2024-01-18 11:50:00,On-Time,201364
+FL00525,EgyptAir,Accra,Ghana,Dakar,Senegal,2100,2024-01-18 21:15:00,2024-01-19 00:45:00,On-Time,215191
+FL00526,Air Peace,Enugu,Nigeria,Dakar,Senegal,3100,2024-01-19 13:00:00,2024-01-19 17:34:00,On-Time,287962
+FL00527,Dana Air,Abuja,Nigeria,Casablanca,Morocco,3680,2024-01-20 05:15:00,2024-01-20 10:38:00,Delayed,328888
+FL00528,Air Peace,Kano,Nigeria,Nairobi,Kenya,3318,2024-01-21 17:15:00,2024-01-21 22:17:00,Delayed,311321
+FL00529,Air Peace,Port Harcourt,Nigeria,Addis Ababa,Ethiopia,3570,2024-01-21 20:00:00,2024-01-22 01:18:00,On-Time,340004
+FL00530,Ethiopian Airlines,Lagos,Nigeria,Douala,Cameroon,1060,2024-01-22 17:15:00,2024-01-22 19:21:00,On-Time,107514
+FL00531,Arik Air,Kano,Nigeria,Lusaka,Zambia,3700,2024-01-23 18:15:00,2024-01-23 23:19:00,On-Time,344167
+FL00532,EgyptAir,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2024-01-24 07:45:00,2024-01-24 12:38:00,On-Time,355680
+FL00533,Arik Air,Douala,Cameroon,Johannesburg,South Africa,3900,2024-01-24 10:30:00,2024-01-24 15:44:00,On-Time,360862
+FL00534,Air Peace,Lagos,Nigeria,Douala,Cameroon,1060,2024-01-25 22:15:00,2024-01-25 23:59:00,On-Time,110393
+FL00535,Dana Air,Kano,Nigeria,Casablanca,Morocco,3200,2024-01-26 09:15:00,2024-01-26 14:07:00,Cancelled,279941
+FL00536,Arik Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-01-26 19:15:00,2024-01-27 01:09:00,On-Time,385066
+FL00537,Air Peace,Kano,Nigeria,Abuja,Nigeria,316,2024-01-27 06:45:00,2024-01-27 08:02:00,Delayed,40239
+FL00538,EgyptAir,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2024-01-28 14:30:00,2024-01-28 19:31:00,On-Time,338545
+FL00539,Ethiopian Airlines,Johannesburg,South Africa,Addis Ababa,Ethiopia,3670,2024-01-29 22:00:00,2024-01-30 02:53:00,On-Time,372364
+FL00540,EgyptAir,Dakar,Senegal,Cairo,Egypt,4900,2024-01-29 17:45:00,2024-01-30 00:14:00,On-Time,455816
+FL00541,Kenya Airways,Nairobi,Kenya,Accra,Ghana,4808,2024-01-30 09:45:00,2024-01-30 16:14:00,On-Time,468617
+FL00542,Ethiopian Airlines,Lusaka,Zambia,Dar es Salaam,Tanzania,1500,2024-01-31 05:30:00,2024-01-31 08:06:00,On-Time,164853
+FL00543,Kenya Airways,Dar es Salaam,Tanzania,Casablanca,Morocco,6400,2024-02-01 05:30:00,2024-02-01 14:19:00,Delayed,604182
+FL00544,Ethiopian Airlines,Johannesburg,South Africa,Kano,Nigeria,4118,2024-02-01 22:45:00,2024-02-02 04:20:00,On-Time,410181
+FL00545,Air Peace,Accra,Ghana,Port Harcourt,Nigeria,730,2024-02-02 19:00:00,2024-02-02 20:29:00,On-Time,77808
+FL00546,EgyptAir,Nairobi,Kenya,Douala,Cameroon,3200,2024-02-03 21:45:00,2024-02-04 02:19:00,Delayed,308421
+FL00547,EgyptAir,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2024-02-03 15:30:00,2024-02-03 21:44:00,Delayed,397575
+FL00548,Air Peace,Nairobi,Kenya,Kano,Nigeria,3318,2024-02-04 21:00:00,2024-02-05 01:44:00,On-Time,307026
+FL00549,Air Peace,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-02-05 17:30:00,2024-02-05 23:30:00,On-Time,404076
+FL00550,Kenya Airways,Accra,Ghana,Dakar,Senegal,2100,2024-02-06 05:00:00,2024-02-06 07:56:00,Cancelled,207092
+FL00551,Arik Air,Dakar,Senegal,Addis Ababa,Ethiopia,4800,2024-02-06 06:15:00,2024-02-06 12:37:00,On-Time,439850
+FL00552,Air Peace,Enugu,Nigeria,Lusaka,Zambia,4000,2024-02-07 13:30:00,2024-02-07 19:14:00,Cancelled,365287
+FL00553,Arik Air,Kano,Nigeria,Enugu,Nigeria,650,2024-02-08 07:30:00,2024-02-08 08:55:00,On-Time,68183
+FL00554,EgyptAir,Dakar,Senegal,Enugu,Nigeria,3100,2024-02-09 05:45:00,2024-02-09 10:13:00,On-Time,295202
+FL00555,Kenya Airways,Dar es Salaam,Tanzania,Addis Ababa,Ethiopia,1280,2024-02-09 20:30:00,2024-02-09 22:24:00,Delayed,126694
+FL00556,Air Peace,Lagos,Nigeria,Casablanca,Morocco,4010,2024-02-10 10:30:00,2024-02-10 16:30:00,On-Time,382031
+FL00557,Ethiopian Airlines,Cairo,Egypt,Dakar,Senegal,4900,2024-02-11 21:15:00,2024-02-12 03:52:00,On-Time,477998
+FL00558,Kenya Airways,Johannesburg,South Africa,Dar es Salaam,Tanzania,2400,2024-02-12 09:30:00,2024-02-12 12:54:00,Delayed,246813
+FL00559,Arik Air,Lagos,Nigeria,Kano,Nigeria,1054,2024-02-12 09:15:00,2024-02-12 11:16:00,On-Time,101619
+FL00560,Air Peace,Enugu,Nigeria,Dakar,Senegal,3100,2024-02-13 10:15:00,2024-02-13 14:54:00,On-Time,293036
+FL00561,Air Peace,Accra,Ghana,Dakar,Senegal,2100,2024-02-14 07:15:00,2024-02-14 10:21:00,Delayed,195260
+FL00562,EgyptAir,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-02-14 09:15:00,2024-02-14 14:49:00,On-Time,366933
+FL00563,Arik Air,Lagos,Nigeria,Kano,Nigeria,1054,2024-02-15 09:00:00,2024-02-15 10:54:00,On-Time,116017
+FL00564,Air Peace,Abuja,Nigeria,Johannesburg,South Africa,4243,2024-02-16 14:45:00,2024-02-16 20:32:00,On-Time,400616
+FL00565,Ethiopian Airlines,Johannesburg,South Africa,Cairo,Egypt,6261,2024-02-17 14:00:00,2024-02-17 22:28:00,On-Time,604992
+FL00566,Arik Air,Accra,Ghana,Dar es Salaam,Tanzania,4700,2024-02-17 21:30:00,2024-02-18 04:05:00,On-Time,431758
+FL00567,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2024-02-18 18:00:00,2024-02-18 21:51:00,On-Time,269381
+FL00568,Arik Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-02-19 13:00:00,2024-02-19 18:28:00,Delayed,375131
+FL00569,EgyptAir,Lagos,Nigeria,Lusaka,Zambia,4260,2024-02-20 18:30:00,2024-02-21 00:45:00,Delayed,404617
+FL00570,EgyptAir,Addis Ababa,Ethiopia,Cairo,Egypt,2185,2024-02-20 05:30:00,2024-02-20 08:31:00,On-Time,221054
+FL00571,Kenya Airways,Dar es Salaam,Tanzania,Enugu,Nigeria,4200,2024-02-21 17:30:00,2024-02-21 23:29:00,On-Time,397614
+FL00572,EgyptAir,Lagos,Nigeria,Dar es Salaam,Tanzania,4450,2024-02-22 17:00:00,2024-02-22 23:05:00,Delayed,433148
+FL00573,EgyptAir,Accra,Ghana,Dar es Salaam,Tanzania,4700,2024-02-22 08:00:00,2024-02-22 14:49:00,On-Time,442051
+FL00574,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2024-02-23 05:30:00,2024-02-23 12:03:00,On-Time,403253
+FL00575,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2024-02-24 21:45:00,2024-02-25 03:46:00,On-Time,372840
+FL00576,EgyptAir,Lagos,Nigeria,Douala,Cameroon,1060,2024-02-25 12:45:00,2024-02-25 14:45:00,Delayed,113050
+FL00577,Kenya Airways,Nairobi,Kenya,Lusaka,Zambia,1860,2024-02-25 06:15:00,2024-02-25 08:56:00,On-Time,179965
+FL00578,Kenya Airways,Lagos,Nigeria,Dar es Salaam,Tanzania,4450,2024-02-26 12:30:00,2024-02-26 18:31:00,On-Time,433016
+FL00579,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2024-02-27 11:15:00,2024-02-27 16:14:00,On-Time,337465
+FL00580,Dana Air,Lagos,Nigeria,Dakar,Senegal,2832,2024-02-28 06:45:00,2024-02-28 10:55:00,On-Time,253213
+FL00581,Kenya Airways,Lusaka,Zambia,Kano,Nigeria,3700,2024-02-28 07:15:00,2024-02-28 12:25:00,Delayed,354694
+FL00582,Ethiopian Airlines,Johannesburg,South Africa,Lusaka,Zambia,1160,2024-02-29 22:30:00,2024-03-01 00:25:00,Delayed,131826
+FL00583,EgyptAir,Addis Ababa,Ethiopia,Nairobi,Kenya,1165,2024-03-01 16:30:00,2024-03-01 18:19:00,Delayed,126400
+FL00584,Ethiopian Airlines,Douala,Cameroon,Nairobi,Kenya,3200,2024-03-02 05:30:00,2024-03-02 10:00:00,On-Time,319450
+FL00585,Ethiopian Airlines,Accra,Ghana,Dakar,Senegal,2100,2024-03-02 16:00:00,2024-03-02 19:17:00,On-Time,216682
+FL00586,Dana Air,Enugu,Nigeria,Dar es Salaam,Tanzania,4200,2024-03-03 09:15:00,2024-03-03 15:20:00,Delayed,381183
+FL00587,Dana Air,Port Harcourt,Nigeria,Cairo,Egypt,3821,2024-03-04 21:45:00,2024-03-05 02:59:00,On-Time,345667
+FL00588,EgyptAir,Casablanca,Morocco,Dakar,Senegal,2000,2024-03-04 20:45:00,2024-03-04 23:44:00,On-Time,190907
+FL00589,EgyptAir,Cairo,Egypt,Dakar,Senegal,4900,2024-03-05 19:45:00,2024-03-06 02:16:00,Cancelled,468415
+FL00590,Dana Air,Port Harcourt,Nigeria,Addis Ababa,Ethiopia,3570,2024-03-06 19:00:00,2024-03-07 00:23:00,On-Time,320030
+FL00591,Ethiopian Airlines,Douala,Cameroon,Casablanca,Morocco,3800,2024-03-07 09:00:00,2024-03-07 14:32:00,On-Time,374106
+FL00592,Dana Air,Enugu,Nigeria,Nairobi,Kenya,3800,2024-03-07 18:30:00,2024-03-07 23:33:00,On-Time,346296
+FL00593,Kenya Airways,Nairobi,Kenya,Lusaka,Zambia,1860,2024-03-08 06:45:00,2024-03-08 09:51:00,On-Time,193969
+FL00594,Ethiopian Airlines,Addis Ababa,Ethiopia,Cairo,Egypt,2185,2024-03-09 15:00:00,2024-03-09 18:20:00,On-Time,226887
+FL00595,Kenya Airways,Cairo,Egypt,Abuja,Nigeria,3224,2024-03-10 11:30:00,2024-03-10 16:14:00,Cancelled,309465
+FL00596,Air Peace,Accra,Ghana,Lusaka,Zambia,4500,2024-03-10 10:45:00,2024-03-10 16:54:00,On-Time,428765
+FL00597,Dana Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2024-03-11 06:15:00,2024-03-11 07:10:00,On-Time,45202
+FL00598,Kenya Airways,Lagos,Nigeria,Douala,Cameroon,1060,2024-03-12 10:30:00,2024-03-12 12:44:00,On-Time,120470
+FL00599,Kenya Airways,Lusaka,Zambia,Nairobi,Kenya,1860,2024-03-12 22:00:00,2024-03-13 01:04:00,On-Time,189330
+FL00600,Air Peace,Abuja,Nigeria,Cairo,Egypt,3224,2024-03-13 06:00:00,2024-03-13 10:47:00,Cancelled,312736
+FL00601,Arik Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2024-03-14 22:30:00,2024-03-15 04:31:00,On-Time,391413
+FL00602,Dana Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2024-03-15 19:30:00,2024-03-15 20:26:00,On-Time,51776
+FL00603,Ethiopian Airlines,Addis Ababa,Ethiopia,Port Harcourt,Nigeria,3570,2024-03-15 06:00:00,2024-03-15 10:54:00,On-Time,354460
+FL00604,EgyptAir,Casablanca,Morocco,Accra,Ghana,3300,2024-03-16 10:15:00,2024-03-16 14:44:00,On-Time,325903
+FL00605,Dana Air,Port Harcourt,Nigeria,Abuja,Nigeria,476,2024-03-17 05:45:00,2024-03-17 07:00:00,Delayed,61477
+FL00606,Ethiopian Airlines,Cairo,Egypt,Casablanca,Morocco,3200,2024-03-18 19:15:00,2024-03-18 23:51:00,On-Time,322840
+FL00607,EgyptAir,Casablanca,Morocco,Addis Ababa,Ethiopia,5000,2024-03-18 14:30:00,2024-03-18 21:24:00,On-Time,466301
+FL00608,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-03-19 21:15:00,2024-03-20 03:15:00,On-Time,364699
+FL00609,Kenya Airways,Cairo,Egypt,Addis Ababa,Ethiopia,2185,2024-03-20 09:00:00,2024-03-20 12:30:00,On-Time,218278
+FL00610,Arik Air,Accra,Ghana,Nairobi,Kenya,4808,2024-03-21 08:30:00,2024-03-21 15:18:00,On-Time,447133
+FL00611,Dana Air,Enugu,Nigeria,Abuja,Nigeria,330,2024-03-21 14:45:00,2024-03-21 15:52:00,Cancelled,40978
+FL00612,Arik Air,Lagos,Nigeria,Dakar,Senegal,2832,2024-03-22 21:00:00,2024-03-23 01:24:00,Cancelled,262562
+FL00613,Air Peace,Accra,Ghana,Enugu,Nigeria,700,2024-03-23 14:00:00,2024-03-23 15:11:00,On-Time,69725
+FL00614,Kenya Airways,Cairo,Egypt,Abuja,Nigeria,3224,2024-03-23 21:45:00,2024-03-24 02:31:00,On-Time,323522
+FL00615,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-03-24 09:45:00,2024-03-24 15:38:00,Cancelled,365216
+FL00616,Arik Air,Kano,Nigeria,Enugu,Nigeria,650,2024-03-25 06:15:00,2024-03-25 07:30:00,On-Time,68948
+FL00617,EgyptAir,Casablanca,Morocco,Dar es Salaam,Tanzania,6400,2024-03-26 10:30:00,2024-03-26 19:27:00,On-Time,605148
+FL00618,Dana Air,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2024-03-26 06:45:00,2024-03-26 12:11:00,On-Time,362645
+FL00619,Kenya Airways,Accra,Ghana,Enugu,Nigeria,700,2024-03-27 17:45:00,2024-03-27 19:20:00,Delayed,78771
+FL00620,Dana Air,Abuja,Nigeria,Casablanca,Morocco,3680,2024-03-28 15:30:00,2024-03-28 20:51:00,On-Time,318724
+FL00621,Dana Air,Kano,Nigeria,Port Harcourt,Nigeria,793,2024-03-29 15:45:00,2024-03-29 17:33:00,On-Time,80631
+FL00622,EgyptAir,Nairobi,Kenya,Addis Ababa,Ethiopia,1165,2024-03-29 20:45:00,2024-03-29 22:51:00,On-Time,121275
+FL00623,Arik Air,Port Harcourt,Nigeria,Enugu,Nigeria,155,2024-03-30 15:15:00,2024-03-30 15:44:00,On-Time,29919
+FL00624,Kenya Airways,Johannesburg,South Africa,Accra,Ghana,4922,2024-03-31 19:00:00,2024-04-01 01:50:00,Cancelled,480146
+FL00625,EgyptAir,Casablanca,Morocco,Accra,Ghana,3300,2024-03-31 20:00:00,2024-04-01 01:03:00,On-Time,310913
+FL00626,Dana Air,Lagos,Nigeria,Johannesburg,South Africa,4590,2024-04-01 15:00:00,2024-04-01 21:41:00,Cancelled,396839
+FL00627,EgyptAir,Accra,Ghana,Douala,Cameroon,1200,2024-04-02 20:00:00,2024-04-02 21:58:00,On-Time,129906
+FL00628,EgyptAir,Dakar,Senegal,Enugu,Nigeria,3100,2024-04-03 12:45:00,2024-04-03 17:35:00,On-Time,308403
+FL00629,Arik Air,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2024-04-03 08:30:00,2024-04-03 13:40:00,On-Time,340479
+FL00630,Dana Air,Lagos,Nigeria,Accra,Ghana,397,2024-04-04 12:30:00,2024-04-04 13:45:00,On-Time,45980
+FL00631,EgyptAir,Cairo,Egypt,Abuja,Nigeria,3224,2024-04-05 08:15:00,2024-04-05 12:36:00,Cancelled,315895
+FL00632,EgyptAir,Johannesburg,South Africa,Lusaka,Zambia,1160,2024-04-06 07:15:00,2024-04-06 09:07:00,On-Time,131001
+FL00633,Arik Air,Abuja,Nigeria,Cairo,Egypt,3224,2024-04-06 07:45:00,2024-04-06 12:09:00,On-Time,293395
+FL00634,Kenya Airways,Addis Ababa,Ethiopia,Johannesburg,South Africa,3670,2024-04-07 22:30:00,2024-04-08 03:50:00,Delayed,355500
+FL00635,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2024-04-08 09:30:00,2024-04-08 13:58:00,Delayed,275343
+FL00636,Air Peace,Lagos,Nigeria,Port Harcourt,Nigeria,443,2024-04-09 22:00:00,2024-04-09 23:22:00,On-Time,52539
+FL00637,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-04-09 14:45:00,2024-04-09 20:37:00,On-Time,366946
+FL00638,Dana Air,Port Harcourt,Nigeria,Casablanca,Morocco,4100,2024-04-10 10:45:00,2024-04-10 16:13:00,On-Time,368245
+FL00639,Dana Air,Abuja,Nigeria,Port Harcourt,Nigeria,476,2024-04-11 05:00:00,2024-04-11 06:13:00,Delayed,61457
+FL00640,Ethiopian Airlines,Lusaka,Zambia,Nairobi,Kenya,1860,2024-04-11 09:45:00,2024-04-11 12:28:00,Delayed,190576
+FL00641,EgyptAir,Accra,Ghana,Dar es Salaam,Tanzania,4700,2024-04-12 13:45:00,2024-04-12 20:26:00,On-Time,440241
+FL00642,Kenya Airways,Nairobi,Kenya,Johannesburg,South Africa,2723,2024-04-13 16:15:00,2024-04-13 20:05:00,On-Time,274473
+FL00643,EgyptAir,Johannesburg,South Africa,Casablanca,Morocco,7200,2024-04-14 18:30:00,2024-04-15 04:02:00,On-Time,685724
+FL00644,Air Peace,Nairobi,Kenya,Cairo,Egypt,3637,2024-04-14 06:45:00,2024-04-14 11:49:00,On-Time,335489
+FL00645,Dana Air,Kano,Nigeria,Dakar,Senegal,2400,2024-04-15 21:15:00,2024-04-16 00:52:00,On-Time,211693
+FL00646,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2024-04-16 18:30:00,2024-04-17 00:25:00,Delayed,367727
+FL00647,Kenya Airways,Lagos,Nigeria,Abuja,Nigeria,533,2024-04-17 17:00:00,2024-04-17 18:03:00,On-Time,61341
+FL00648,Ethiopian Airlines,Addis Ababa,Ethiopia,Dar es Salaam,Tanzania,1280,2024-04-17 13:15:00,2024-04-17 15:30:00,On-Time,136313
+FL00649,Air Peace,Accra,Ghana,Casablanca,Morocco,3300,2024-04-18 19:15:00,2024-04-18 23:52:00,Delayed,311290
+FL00650,EgyptAir,Casablanca,Morocco,Cairo,Egypt,3200,2024-04-19 19:30:00,2024-04-19 23:53:00,On-Time,317032
+FL00651,Dana Air,Abuja,Nigeria,Lagos,Nigeria,533,2024-04-19 15:00:00,2024-04-19 16:13:00,On-Time,67747
+FL00652,EgyptAir,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-04-20 20:15:00,2024-04-21 01:31:00,On-Time,376469
+FL00653,Air Peace,Abuja,Nigeria,Lusaka,Zambia,3980,2024-04-21 21:45:00,2024-04-22 03:35:00,On-Time,370549
+FL00654,Dana Air,Lagos,Nigeria,Abuja,Nigeria,533,2024-04-22 08:45:00,2024-04-22 09:56:00,On-Time,68560
+FL00655,Ethiopian Airlines,Accra,Ghana,Addis Ababa,Ethiopia,4200,2024-04-22 05:45:00,2024-04-22 11:34:00,On-Time,412236
+FL00656,EgyptAir,Johannesburg,South Africa,Dakar,Senegal,6500,2024-04-23 12:00:00,2024-04-23 20:28:00,Delayed,620898
+FL00657,Arik Air,Abuja,Nigeria,Douala,Cameroon,870,2024-04-24 21:15:00,2024-04-24 23:08:00,On-Time,86036
+FL00658,Air Peace,Nairobi,Kenya,Port Harcourt,Nigeria,3906,2024-04-25 07:45:00,2024-04-25 13:23:00,Delayed,369988
+FL00659,Arik Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2024-04-25 19:00:00,2024-04-25 19:52:00,On-Time,51971
+FL00660,Kenya Airways,Cairo,Egypt,Enugu,Nigeria,3700,2024-04-26 19:45:00,2024-04-27 01:04:00,Delayed,352776
+FL00661,Kenya Airways,Dar es Salaam,Tanzania,Johannesburg,South Africa,2400,2024-04-27 18:30:00,2024-04-27 22:18:00,On-Time,232912
+FL00662,Dana Air,Lagos,Nigeria,Douala,Cameroon,1060,2024-04-28 18:15:00,2024-04-28 20:03:00,On-Time,106872
+FL00663,Arik Air,Accra,Ghana,Port Harcourt,Nigeria,730,2024-04-28 06:15:00,2024-04-28 07:48:00,Delayed,83883
+FL00664,Arik Air,Douala,Cameroon,Cairo,Egypt,3600,2024-04-29 17:00:00,2024-04-29 22:27:00,On-Time,335598
+FL00665,Kenya Airways,Cairo,Egypt,Lusaka,Zambia,4800,2024-04-30 18:00:00,2024-05-01 00:30:00,Delayed,468518
+FL00666,Air Peace,Nairobi,Kenya,Abuja,Nigeria,3714,2024-04-30 11:15:00,2024-04-30 16:25:00,On-Time,343848
+FL00667,Arik Air,Lagos,Nigeria,Lusaka,Zambia,4260,2024-05-01 07:45:00,2024-05-01 13:40:00,On-Time,381485
+FL00668,Dana Air,Abuja,Nigeria,Port Harcourt,Nigeria,476,2024-05-02 19:45:00,2024-05-02 20:56:00,On-Time,50534
+FL00669,EgyptAir,Addis Ababa,Ethiopia,Dar es Salaam,Tanzania,1280,2024-05-03 18:30:00,2024-05-03 20:35:00,On-Time,126999
+FL00670,Air Peace,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-05-03 15:45:00,2024-05-03 21:35:00,Delayed,402735
+FL00671,Air Peace,Kano,Nigeria,Addis Ababa,Ethiopia,3020,2024-05-04 19:00:00,2024-05-04 23:31:00,On-Time,294351
+FL00672,EgyptAir,Accra,Ghana,Kano,Nigeria,1382,2024-05-05 17:00:00,2024-05-05 19:12:00,On-Time,148003
+FL00673,Dana Air,Abuja,Nigeria,Lagos,Nigeria,533,2024-05-06 22:45:00,2024-05-06 23:55:00,Delayed,66186
+FL00674,Arik Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-05-06 10:00:00,2024-05-06 16:15:00,On-Time,398181
+FL00675,Kenya Airways,Accra,Ghana,Johannesburg,South Africa,4922,2024-05-07 07:15:00,2024-05-07 13:44:00,Delayed,473316
+FL00676,Arik Air,Dakar,Senegal,Kano,Nigeria,2400,2024-05-08 19:15:00,2024-05-08 22:45:00,On-Time,229586
+FL00677,EgyptAir,Johannesburg,South Africa,Douala,Cameroon,3900,2024-05-08 09:45:00,2024-05-08 15:14:00,On-Time,382078
+FL00678,EgyptAir,Addis Ababa,Ethiopia,Accra,Ghana,4200,2024-05-09 14:15:00,2024-05-09 20:24:00,On-Time,396578
+FL00679,Air Peace,Enugu,Nigeria,Lagos,Nigeria,478,2024-05-10 11:15:00,2024-05-10 12:33:00,On-Time,56201
+FL00680,Ethiopian Airlines,Cairo,Egypt,Casablanca,Morocco,3200,2024-05-11 21:30:00,2024-05-12 02:14:00,On-Time,327714
+FL00681,Air Peace,Kano,Nigeria,Addis Ababa,Ethiopia,3020,2024-05-11 11:30:00,2024-05-11 15:38:00,On-Time,290234
+FL00682,Dana Air,Abuja,Nigeria,Nairobi,Kenya,3714,2024-05-12 16:15:00,2024-05-12 21:38:00,On-Time,322902
+FL00683,Air Peace,Kano,Nigeria,Lagos,Nigeria,1054,2024-05-13 21:45:00,2024-05-13 23:41:00,Delayed,114419
+FL00684,Dana Air,Port Harcourt,Nigeria,Douala,Cameroon,480,2024-05-14 17:30:00,2024-05-14 18:40:00,On-Time,47191
+FL00685,Kenya Airways,Lagos,Nigeria,Abuja,Nigeria,533,2024-05-14 08:00:00,2024-05-14 09:10:00,On-Time,60538
+FL00686,Arik Air,Douala,Cameroon,Lusaka,Zambia,3600,2024-05-15 14:00:00,2024-05-15 19:01:00,On-Time,337186
+FL00687,Arik Air,Port Harcourt,Nigeria,Cairo,Egypt,3821,2024-05-16 07:00:00,2024-05-16 12:15:00,On-Time,356142
+FL00688,Kenya Airways,Nairobi,Kenya,Abuja,Nigeria,3714,2024-05-17 13:45:00,2024-05-17 19:14:00,On-Time,360545
+FL00689,EgyptAir,Nairobi,Kenya,Lagos,Nigeria,4182,2024-05-17 17:15:00,2024-05-17 22:55:00,On-Time,393918
+FL00690,Ethiopian Airlines,Douala,Cameroon,Dar es Salaam,Tanzania,3500,2024-05-18 22:00:00,2024-05-19 03:02:00,On-Time,343096
+FL00691,Kenya Airways,Nairobi,Kenya,Addis Ababa,Ethiopia,1165,2024-05-19 19:45:00,2024-05-19 21:33:00,On-Time,127013
+FL00692,EgyptAir,Cairo,Egypt,Accra,Ghana,4383,2024-05-19 08:30:00,2024-05-19 14:38:00,On-Time,424040
+FL00693,Kenya Airways,Accra,Ghana,Kano,Nigeria,1382,2024-05-20 19:15:00,2024-05-20 21:54:00,Delayed,136725
+FL00694,Air Peace,Kano,Nigeria,Lagos,Nigeria,1054,2024-05-21 06:30:00,2024-05-21 08:18:00,On-Time,116840
+FL00695,Arik Air,Douala,Cameroon,Nairobi,Kenya,3200,2024-05-22 19:45:00,2024-05-23 00:16:00,Delayed,301383
+FL00696,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2024-05-22 12:00:00,2024-05-22 17:40:00,On-Time,363129
+FL00697,EgyptAir,Accra,Ghana,Nairobi,Kenya,4808,2024-05-23 12:00:00,2024-05-23 18:49:00,On-Time,456973
+FL00698,Dana Air,Lagos,Nigeria,Kano,Nigeria,1054,2024-05-24 21:45:00,2024-05-24 23:52:00,On-Time,111486
+FL00699,Ethiopian Airlines,Johannesburg,South Africa,Lusaka,Zambia,1160,2024-05-25 16:00:00,2024-05-25 17:59:00,On-Time,116767
+FL00700,Air Peace,Port Harcourt,Nigeria,Dakar,Senegal,3000,2024-05-25 14:15:00,2024-05-25 18:22:00,On-Time,293749
+FL00701,Arik Air,Dakar,Senegal,Abuja,Nigeria,2600,2024-05-26 13:45:00,2024-05-26 17:25:00,On-Time,248148
+FL00702,Arik Air,Douala,Cameroon,Dar es Salaam,Tanzania,3500,2024-05-27 09:30:00,2024-05-27 14:41:00,Delayed,317284
+FL00703,Arik Air,Lagos,Nigeria,Kano,Nigeria,1054,2024-05-27 10:45:00,2024-05-27 12:58:00,On-Time,100561
+FL00704,Arik Air,Abuja,Nigeria,Enugu,Nigeria,330,2024-05-28 06:15:00,2024-05-28 07:39:00,On-Time,47969
+FL00705,EgyptAir,Lagos,Nigeria,Dakar,Senegal,2832,2024-05-29 17:15:00,2024-05-29 21:28:00,Cancelled,273787
+FL00706,Arik Air,Kano,Nigeria,Lusaka,Zambia,3700,2024-05-30 10:45:00,2024-05-30 16:10:00,On-Time,336482
+FL00707,Ethiopian Airlines,Cairo,Egypt,Accra,Ghana,4383,2024-05-30 09:45:00,2024-05-30 16:06:00,On-Time,427488
+FL00708,Dana Air,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2024-05-31 05:00:00,2024-05-31 10:17:00,On-Time,344454
+FL00709,Dana Air,Lagos,Nigeria,Cairo,Egypt,4020,2024-06-01 10:15:00,2024-06-01 15:43:00,On-Time,359976
+FL00710,EgyptAir,Addis Ababa,Ethiopia,Port Harcourt,Nigeria,3570,2024-06-02 10:45:00,2024-06-02 16:04:00,Delayed,336041
+FL00711,Arik Air,Lagos,Nigeria,Douala,Cameroon,1060,2024-06-02 20:45:00,2024-06-02 22:25:00,On-Time,102648
+FL00712,EgyptAir,Lagos,Nigeria,Cairo,Egypt,4020,2024-06-03 08:15:00,2024-06-03 13:41:00,Delayed,376141
+FL00713,Dana Air,Kano,Nigeria,Johannesburg,South Africa,4118,2024-06-04 15:45:00,2024-06-04 21:14:00,Cancelled,373330
+FL00714,Air Peace,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2024-06-05 13:00:00,2024-06-05 18:33:00,On-Time,373102
+FL00715,Air Peace,Kano,Nigeria,Nairobi,Kenya,3318,2024-06-05 07:15:00,2024-06-05 12:17:00,On-Time,303680
+FL00716,EgyptAir,Accra,Ghana,Dakar,Senegal,2100,2024-06-06 12:00:00,2024-06-06 15:16:00,Delayed,215169
+FL00717,Dana Air,Lagos,Nigeria,Johannesburg,South Africa,4590,2024-06-07 09:00:00,2024-06-07 15:35:00,Cancelled,414932
+FL00718,Ethiopian Airlines,Nairobi,Kenya,Douala,Cameroon,3200,2024-06-07 08:00:00,2024-06-07 12:58:00,Delayed,322327
+FL00719,Dana Air,Abuja,Nigeria,Dakar,Senegal,2600,2024-06-08 10:00:00,2024-06-08 13:41:00,On-Time,236891
+FL00720,EgyptAir,Lagos,Nigeria,Johannesburg,South Africa,4590,2024-06-09 06:15:00,2024-06-09 12:44:00,On-Time,438020
+FL00721,Arik Air,Douala,Cameroon,Kano,Nigeria,950,2024-06-10 15:00:00,2024-06-10 16:45:00,On-Time,93998
+FL00722,Arik Air,Accra,Ghana,Addis Ababa,Ethiopia,4200,2024-06-10 08:00:00,2024-06-10 13:43:00,Cancelled,381718
+FL00723,Ethiopian Airlines,Lagos,Nigeria,Casablanca,Morocco,4010,2024-06-11 19:45:00,2024-06-12 01:43:00,On-Time,403924
+FL00724,Arik Air,Lagos,Nigeria,Cairo,Egypt,4020,2024-06-12 10:15:00,2024-06-12 16:00:00,On-Time,366852
+FL00725,Arik Air,Kano,Nigeria,Port Harcourt,Nigeria,793,2024-06-13 21:15:00,2024-06-13 22:40:00,On-Time,93896
+FL00726,Dana Air,Abuja,Nigeria,Kano,Nigeria,316,2024-06-13 10:30:00,2024-06-13 11:50:00,Delayed,49447
+FL00727,EgyptAir,Dakar,Senegal,Johannesburg,South Africa,6500,2024-06-14 06:15:00,2024-06-14 14:46:00,On-Time,616204
+FL00728,EgyptAir,Nairobi,Kenya,Lagos,Nigeria,4182,2024-06-15 19:15:00,2024-06-16 01:04:00,Cancelled,395545
+FL00729,Dana Air,Port Harcourt,Nigeria,Accra,Ghana,730,2024-06-15 15:30:00,2024-06-15 17:07:00,On-Time,79911
+FL00730,Dana Air,Port Harcourt,Nigeria,Lagos,Nigeria,443,2024-06-16 12:15:00,2024-06-16 13:14:00,On-Time,60504
+FL00731,Arik Air,Dakar,Senegal,Port Harcourt,Nigeria,3000,2024-06-17 17:15:00,2024-06-17 21:39:00,On-Time,276382
+FL00732,Ethiopian Airlines,Lusaka,Zambia,Johannesburg,South Africa,1160,2024-06-18 16:15:00,2024-06-18 18:13:00,On-Time,127588
+FL00733,Dana Air,Enugu,Nigeria,Addis Ababa,Ethiopia,3450,2024-06-18 09:15:00,2024-06-18 14:00:00,On-Time,310903
+FL00734,Air Peace,Lagos,Nigeria,Accra,Ghana,397,2024-06-19 10:30:00,2024-06-19 11:56:00,On-Time,58002
+FL00735,Ethiopian Airlines,Accra,Ghana,Johannesburg,South Africa,4922,2024-06-20 08:15:00,2024-06-20 14:56:00,On-Time,491389
+FL00736,EgyptAir,Accra,Ghana,Dakar,Senegal,2100,2024-06-21 05:15:00,2024-06-21 08:41:00,On-Time,211182
+FL00737,Kenya Airways,Lusaka,Zambia,Johannesburg,South Africa,1160,2024-06-21 21:30:00,2024-06-21 23:37:00,On-Time,113375
+FL00738,Ethiopian Airlines,Dar es Salaam,Tanzania,Lusaka,Zambia,1500,2024-06-22 16:45:00,2024-06-22 19:09:00,On-Time,167388
+FL00739,Kenya Airways,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-06-23 19:00:00,2024-06-24 00:44:00,Delayed,368408
+FL00740,Dana Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-06-24 05:45:00,2024-06-24 11:35:00,On-Time,382168
+FL00741,Kenya Airways,Cairo,Egypt,Kano,Nigeria,2887,2024-06-24 18:30:00,2024-06-24 22:28:00,On-Time,282860
+FL00742,Arik Air,Douala,Cameroon,Casablanca,Morocco,3800,2024-06-25 10:00:00,2024-06-25 15:29:00,Delayed,354185
+FL00743,Air Peace,Abuja,Nigeria,Port Harcourt,Nigeria,476,2024-06-26 09:30:00,2024-06-26 10:47:00,Delayed,52112
+FL00744,Dana Air,Kano,Nigeria,Lagos,Nigeria,1054,2024-06-26 15:30:00,2024-06-26 17:42:00,On-Time,101601
+FL00745,Kenya Airways,Accra,Ghana,Addis Ababa,Ethiopia,4200,2024-06-27 08:15:00,2024-06-27 14:02:00,On-Time,396812
+FL00746,EgyptAir,Lagos,Nigeria,Abuja,Nigeria,533,2024-06-28 17:00:00,2024-06-28 18:00:00,On-Time,72931
+FL00747,Arik Air,Accra,Ghana,Addis Ababa,Ethiopia,4200,2024-06-29 15:15:00,2024-06-29 21:02:00,On-Time,388247
+FL00748,Air Peace,Accra,Ghana,Casablanca,Morocco,3300,2024-06-29 07:00:00,2024-06-29 11:30:00,On-Time,309328
+FL00749,Arik Air,Lagos,Nigeria,Lusaka,Zambia,4260,2024-06-30 05:30:00,2024-06-30 11:23:00,On-Time,379947
+FL00750,Kenya Airways,Addis Ababa,Ethiopia,Casablanca,Morocco,5000,2024-07-01 10:30:00,2024-07-01 17:28:00,Delayed,475680
+FL00751,Ethiopian Airlines,Addis Ababa,Ethiopia,Lusaka,Zambia,2520,2024-07-02 22:45:00,2024-07-03 02:37:00,Delayed,251467
+FL00752,Ethiopian Airlines,Accra,Ghana,Abuja,Nigeria,1055,2024-07-02 14:00:00,2024-07-02 15:38:00,On-Time,124885
+FL00753,Air Peace,Accra,Ghana,Dar es Salaam,Tanzania,4700,2024-07-03 09:15:00,2024-07-03 15:56:00,Delayed,434701
+FL00754,Dana Air,Port Harcourt,Nigeria,Accra,Ghana,730,2024-07-04 14:45:00,2024-07-04 16:30:00,Cancelled,69881
+FL00755,Dana Air,Abuja,Nigeria,Dar es Salaam,Tanzania,4050,2024-07-04 16:45:00,2024-07-04 22:33:00,On-Time,360869
+FL00756,EgyptAir,Casablanca,Morocco,Dar es Salaam,Tanzania,6400,2024-07-05 06:45:00,2024-07-05 15:38:00,On-Time,609532
+FL00757,Dana Air,Kano,Nigeria,Addis Ababa,Ethiopia,3020,2024-07-06 17:15:00,2024-07-06 21:28:00,Delayed,278899
+FL00758,Dana Air,Enugu,Nigeria,Casablanca,Morocco,3900,2024-07-07 12:45:00,2024-07-07 18:07:00,Delayed,337034
+FL00759,Kenya Airways,Lagos,Nigeria,Johannesburg,South Africa,4590,2024-07-07 06:15:00,2024-07-07 12:43:00,On-Time,445335
+FL00760,Kenya Airways,Lusaka,Zambia,Enugu,Nigeria,4000,2024-07-08 05:45:00,2024-07-08 11:38:00,Delayed,378641
+FL00761,Kenya Airways,Johannesburg,South Africa,Addis Ababa,Ethiopia,3670,2024-07-09 09:15:00,2024-07-09 14:48:00,Delayed,346673
+FL00762,EgyptAir,Casablanca,Morocco,Accra,Ghana,3300,2024-07-10 13:30:00,2024-07-10 18:30:00,On-Time,319797
+FL00763,Dana Air,Lagos,Nigeria,Dar es Salaam,Tanzania,4450,2024-07-10 21:30:00,2024-07-11 03:24:00,On-Time,388454
+FL00764,EgyptAir,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-07-11 13:30:00,2024-07-11 18:59:00,On-Time,359615
+FL00765,Air Peace,Abuja,Nigeria,Kano,Nigeria,316,2024-07-12 15:30:00,2024-07-12 16:19:00,On-Time,53342
+FL00766,Air Peace,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2024-07-13 19:30:00,2024-07-13 20:47:00,On-Time,53834
+FL00767,Ethiopian Airlines,Dar es Salaam,Tanzania,Port Harcourt,Nigeria,4100,2024-07-13 10:45:00,2024-07-13 16:18:00,Delayed,399627
+FL00768,Ethiopian Airlines,Lusaka,Zambia,Abuja,Nigeria,3980,2024-07-14 07:45:00,2024-07-14 13:13:00,On-Time,392621
+FL00769,EgyptAir,Dakar,Senegal,Port Harcourt,Nigeria,3000,2024-07-15 21:45:00,2024-07-16 02:26:00,On-Time,294440
+FL00770,Arik Air,Douala,Cameroon,Nairobi,Kenya,3200,2024-07-15 09:15:00,2024-07-15 13:34:00,On-Time,305587
+FL00771,Arik Air,Dakar,Senegal,Douala,Cameroon,3100,2024-07-16 16:15:00,2024-07-16 20:26:00,On-Time,286233
+FL00772,EgyptAir,Accra,Ghana,Kano,Nigeria,1382,2024-07-17 22:15:00,2024-07-18 00:20:00,Cancelled,148597
+FL00773,Kenya Airways,Nairobi,Kenya,Douala,Cameroon,3200,2024-07-18 18:15:00,2024-07-18 22:52:00,On-Time,315929
+FL00774,Ethiopian Airlines,Douala,Cameroon,Port Harcourt,Nigeria,480,2024-07-18 15:30:00,2024-07-18 16:59:00,On-Time,69314
+FL00775,Arik Air,Douala,Cameroon,Accra,Ghana,1200,2024-07-19 13:30:00,2024-07-19 15:50:00,On-Time,122657
+FL00776,Air Peace,Kano,Nigeria,Cairo,Egypt,2887,2024-07-20 06:30:00,2024-07-20 10:26:00,On-Time,283131
+FL00777,Kenya Airways,Cairo,Egypt,Addis Ababa,Ethiopia,2185,2024-07-21 16:00:00,2024-07-21 19:20:00,Delayed,221022
+FL00778,Air Peace,Enugu,Nigeria,Abuja,Nigeria,330,2024-07-21 07:45:00,2024-07-21 08:53:00,Delayed,39197
+FL00779,EgyptAir,Lagos,Nigeria,Accra,Ghana,397,2024-07-22 07:15:00,2024-07-22 08:28:00,Delayed,58216
+FL00780,Arik Air,Dakar,Senegal,Port Harcourt,Nigeria,3000,2024-07-23 05:15:00,2024-07-23 09:59:00,Delayed,284577
+FL00781,Ethiopian Airlines,Addis Ababa,Ethiopia,Lusaka,Zambia,2520,2024-07-23 12:30:00,2024-07-23 16:26:00,On-Time,255554
+FL00782,Arik Air,Accra,Ghana,Douala,Cameroon,1200,2024-07-24 12:15:00,2024-07-24 14:23:00,Delayed,130365
+FL00783,Air Peace,Port Harcourt,Nigeria,Accra,Ghana,730,2024-07-25 15:15:00,2024-07-25 16:45:00,On-Time,87088
+FL00784,Arik Air,Douala,Cameroon,Nairobi,Kenya,3200,2024-07-26 13:45:00,2024-07-26 18:13:00,On-Time,289263
+FL00785,Dana Air,Abuja,Nigeria,Dakar,Senegal,2600,2024-07-26 09:30:00,2024-07-26 13:34:00,Cancelled,243515
+FL00786,Ethiopian Airlines,Nairobi,Kenya,Lusaka,Zambia,1860,2024-07-27 18:45:00,2024-07-27 21:58:00,Delayed,186792
+FL00787,Arik Air,Abuja,Nigeria,Accra,Ghana,1055,2024-07-28 07:00:00,2024-07-28 08:51:00,On-Time,106285
+FL00788,Ethiopian Airlines,Douala,Cameroon,Enugu,Nigeria,600,2024-07-29 09:00:00,2024-07-29 10:25:00,On-Time,78179
+FL00789,Kenya Airways,Nairobi,Kenya,Enugu,Nigeria,3800,2024-07-29 09:00:00,2024-07-29 14:16:00,Delayed,375543
+FL00790,Ethiopian Airlines,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-07-30 18:30:00,2024-07-31 00:06:00,On-Time,375782
+FL00791,Arik Air,Accra,Ghana,Enugu,Nigeria,700,2024-07-31 08:15:00,2024-07-31 10:07:00,On-Time,72980
+FL00792,Air Peace,Kano,Nigeria,Cairo,Egypt,2887,2024-08-01 17:30:00,2024-08-01 21:33:00,On-Time,265819
+FL00793,Kenya Airways,Cairo,Egypt,Port Harcourt,Nigeria,3821,2024-08-01 14:30:00,2024-08-01 20:09:00,Delayed,373514
+FL00794,Air Peace,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2024-08-02 22:15:00,2024-08-03 03:56:00,On-Time,381688
+FL00795,Ethiopian Airlines,Dar es Salaam,Tanzania,Nairobi,Kenya,524,2024-08-03 12:45:00,2024-08-03 14:08:00,On-Time,71262
+FL00796,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2024-08-03 12:00:00,2024-08-03 15:55:00,On-Time,283172
+FL00797,Arik Air,Douala,Cameroon,Dakar,Senegal,3100,2024-08-04 11:45:00,2024-08-04 16:34:00,On-Time,294728
+FL00798,Air Peace,Enugu,Nigeria,Kano,Nigeria,650,2024-08-05 12:00:00,2024-08-05 13:15:00,Delayed,82330
+FL00799,Kenya Airways,Lagos,Nigeria,Port Harcourt,Nigeria,443,2024-08-06 18:30:00,2024-08-06 19:31:00,On-Time,55404
+FL00800,Ethiopian Airlines,Nairobi,Kenya,Accra,Ghana,4808,2024-08-06 10:00:00,2024-08-06 16:32:00,On-Time,465441
+FL00801,Ethiopian Airlines,Dar es Salaam,Tanzania,Kano,Nigeria,3800,2024-08-07 05:30:00,2024-08-07 10:59:00,Delayed,373082
+FL00802,Dana Air,Lagos,Nigeria,Cairo,Egypt,4020,2024-08-08 19:45:00,2024-08-09 01:16:00,On-Time,362484
+FL00803,Kenya Airways,Addis Ababa,Ethiopia,Dar es Salaam,Tanzania,1280,2024-08-09 05:30:00,2024-08-09 07:33:00,On-Time,135372
+FL00804,Arik Air,Abuja,Nigeria,Lagos,Nigeria,533,2024-08-09 21:45:00,2024-08-09 22:50:00,On-Time,70703
+FL00805,Dana Air,Kano,Nigeria,Accra,Ghana,1382,2024-08-10 05:15:00,2024-08-10 07:41:00,Delayed,130572
+FL00806,Arik Air,Lagos,Nigeria,Douala,Cameroon,1060,2024-08-11 19:15:00,2024-08-11 21:20:00,On-Time,106904
+FL00807,Dana Air,Lagos,Nigeria,Enugu,Nigeria,478,2024-08-11 06:15:00,2024-08-11 07:30:00,On-Time,50197
+FL00808,EgyptAir,Dakar,Senegal,Cairo,Egypt,4900,2024-08-12 18:30:00,2024-08-13 01:08:00,On-Time,459822
+FL00809,Air Peace,Port Harcourt,Nigeria,Dakar,Senegal,3000,2024-08-13 12:15:00,2024-08-13 16:42:00,Delayed,282054
+FL00810,Dana Air,Port Harcourt,Nigeria,Douala,Cameroon,480,2024-08-14 12:00:00,2024-08-14 13:10:00,Cancelled,61528
+FL00811,EgyptAir,Casablanca,Morocco,Accra,Ghana,3300,2024-08-14 11:45:00,2024-08-14 16:52:00,On-Time,326318
+FL00812,Kenya Airways,Lusaka,Zambia,Port Harcourt,Nigeria,3900,2024-08-15 10:45:00,2024-08-15 16:32:00,On-Time,379818
+FL00813,EgyptAir,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2024-08-16 10:00:00,2024-08-16 15:39:00,Cancelled,413192
+FL00814,Kenya Airways,Cairo,Egypt,Lagos,Nigeria,4020,2024-08-17 07:30:00,2024-08-17 13:09:00,Delayed,387465
+FL00815,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2024-08-17 11:30:00,2024-08-17 15:23:00,On-Time,280555
+FL00816,Dana Air,Enugu,Nigeria,Dar es Salaam,Tanzania,4200,2024-08-18 12:45:00,2024-08-18 18:27:00,On-Time,378963
+FL00817,Dana Air,Abuja,Nigeria,Kano,Nigeria,316,2024-08-19 14:15:00,2024-08-19 15:11:00,Cancelled,35997
+FL00818,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2024-08-20 19:30:00,2024-08-21 01:02:00,On-Time,339381
+FL00819,Dana Air,Port Harcourt,Nigeria,Kano,Nigeria,793,2024-08-20 19:30:00,2024-08-20 21:09:00,On-Time,89669
+FL00820,EgyptAir,Johannesburg,South Africa,Douala,Cameroon,3900,2024-08-21 05:00:00,2024-08-21 10:12:00,On-Time,376156
+FL00821,Arik Air,Lagos,Nigeria,Douala,Cameroon,1060,2024-08-22 11:00:00,2024-08-22 12:57:00,On-Time,108666
+FL00822,Ethiopian Airlines,Nairobi,Kenya,Lagos,Nigeria,4182,2024-08-22 08:15:00,2024-08-22 13:51:00,On-Time,419119
+FL00823,Kenya Airways,Johannesburg,South Africa,Lagos,Nigeria,4590,2024-08-23 10:30:00,2024-08-23 17:13:00,On-Time,448515
+FL00824,Air Peace,Lagos,Nigeria,Cairo,Egypt,4020,2024-08-24 05:30:00,2024-08-24 11:03:00,On-Time,370975
+FL00825,EgyptAir,Dakar,Senegal,Port Harcourt,Nigeria,3000,2024-08-25 09:00:00,2024-08-25 13:22:00,On-Time,289347
+FL00826,Kenya Airways,Lusaka,Zambia,Enugu,Nigeria,4000,2024-08-25 05:30:00,2024-08-25 11:12:00,On-Time,382724
+FL00827,Dana Air,Lagos,Nigeria,Abuja,Nigeria,533,2024-08-26 08:45:00,2024-08-26 10:07:00,Delayed,57699
+FL00828,Air Peace,Kano,Nigeria,Johannesburg,South Africa,4118,2024-08-27 06:00:00,2024-08-27 11:45:00,On-Time,390010
+FL00829,Ethiopian Airlines,Johannesburg,South Africa,Dar es Salaam,Tanzania,2400,2024-08-28 14:15:00,2024-08-28 17:36:00,On-Time,246509
+FL00830,Dana Air,Enugu,Nigeria,Lusaka,Zambia,4000,2024-08-28 09:00:00,2024-08-28 14:32:00,Delayed,355748
+FL00831,Arik Air,Kano,Nigeria,Port Harcourt,Nigeria,793,2024-08-29 14:30:00,2024-08-29 16:16:00,On-Time,91482
+FL00832,Ethiopian Airlines,Douala,Cameroon,Lagos,Nigeria,1060,2024-08-30 05:15:00,2024-08-30 06:53:00,On-Time,119030
+FL00833,Air Peace,Enugu,Nigeria,Cairo,Egypt,3700,2024-08-30 10:00:00,2024-08-30 15:31:00,Cancelled,343670
+FL00834,Ethiopian Airlines,Accra,Ghana,Lusaka,Zambia,4500,2024-08-31 17:45:00,2024-08-31 23:42:00,On-Time,440337
+FL00835,Ethiopian Airlines,Johannesburg,South Africa,Cairo,Egypt,6261,2024-09-01 19:45:00,2024-09-02 03:55:00,On-Time,617866
+FL00836,EgyptAir,Johannesburg,South Africa,Abuja,Nigeria,4243,2024-09-02 08:00:00,2024-09-02 13:40:00,Delayed,408877
+FL00837,Air Peace,Accra,Ghana,Cairo,Egypt,4383,2024-09-02 17:45:00,2024-09-03 00:06:00,On-Time,419260
+FL00838,Ethiopian Airlines,Douala,Cameroon,Casablanca,Morocco,3800,2024-09-03 19:45:00,2024-09-04 01:08:00,Delayed,384133
+FL00839,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2024-09-04 12:45:00,2024-09-04 18:14:00,On-Time,330172
+FL00840,Kenya Airways,Nairobi,Kenya,Dakar,Senegal,5600,2024-09-05 09:15:00,2024-09-05 16:43:00,On-Time,538190
+FL00841,Ethiopian Airlines,Lusaka,Zambia,Abuja,Nigeria,3980,2024-09-05 19:45:00,2024-09-06 01:36:00,On-Time,388951
+FL00842,Arik Air,Kano,Nigeria,Cairo,Egypt,2887,2024-09-06 08:45:00,2024-09-06 13:16:00,On-Time,260558
+FL00843,EgyptAir,Casablanca,Morocco,Addis Ababa,Ethiopia,5000,2024-09-07 16:45:00,2024-09-07 23:34:00,On-Time,479266
+FL00844,Air Peace,Kano,Nigeria,Johannesburg,South Africa,4118,2024-09-08 17:15:00,2024-09-08 22:52:00,Cancelled,378214
+FL00845,Arik Air,Accra,Ghana,Douala,Cameroon,1200,2024-09-08 06:00:00,2024-09-08 08:02:00,Delayed,114139
+FL00846,Air Peace,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2024-09-09 08:30:00,2024-09-09 14:02:00,On-Time,385422
+FL00847,Ethiopian Airlines,Lusaka,Zambia,Addis Ababa,Ethiopia,2520,2024-09-10 08:45:00,2024-09-10 12:14:00,On-Time,258736
+FL00848,Air Peace,Nairobi,Kenya,Dar es Salaam,Tanzania,524,2024-09-10 15:00:00,2024-09-10 16:37:00,Delayed,58683
+FL00849,Ethiopian Airlines,Lagos,Nigeria,Kano,Nigeria,1054,2024-09-11 09:45:00,2024-09-11 11:54:00,On-Time,118549
+FL00850,Arik Air,Lagos,Nigeria,Enugu,Nigeria,478,2024-09-12 15:15:00,2024-09-12 16:25:00,On-Time,53194
+FL00851,Ethiopian Airlines,Lagos,Nigeria,Cairo,Egypt,4020,2024-09-13 14:00:00,2024-09-13 19:47:00,On-Time,406841
+FL00852,Kenya Airways,Addis Ababa,Ethiopia,Kano,Nigeria,3020,2024-09-13 12:15:00,2024-09-13 16:28:00,Delayed,303345
+FL00853,EgyptAir,Casablanca,Morocco,Enugu,Nigeria,3900,2024-09-14 10:45:00,2024-09-14 16:14:00,On-Time,382445
+FL00854,EgyptAir,Casablanca,Morocco,Kano,Nigeria,3200,2024-09-15 10:45:00,2024-09-15 15:06:00,On-Time,313230
+FL00855,Kenya Airways,Lusaka,Zambia,Abuja,Nigeria,3980,2024-09-16 12:15:00,2024-09-16 17:36:00,On-Time,380311
+FL00856,EgyptAir,Addis Ababa,Ethiopia,Enugu,Nigeria,3450,2024-09-16 19:30:00,2024-09-17 00:37:00,On-Time,335404
+FL00857,Dana Air,Enugu,Nigeria,Accra,Ghana,700,2024-09-17 18:15:00,2024-09-17 20:01:00,Delayed,78294
+FL00858,Dana Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-09-18 15:45:00,2024-09-18 21:35:00,Delayed,381983
+FL00859,Ethiopian Airlines,Douala,Cameroon,Cairo,Egypt,3600,2024-09-18 16:15:00,2024-09-18 21:06:00,Delayed,348164
+FL00860,Dana Air,Lagos,Nigeria,Enugu,Nigeria,478,2024-09-19 17:30:00,2024-09-19 18:36:00,On-Time,64038
+FL00861,Arik Air,Lagos,Nigeria,Lusaka,Zambia,4260,2024-09-20 12:15:00,2024-09-20 18:09:00,On-Time,392338
+FL00862,Dana Air,Abuja,Nigeria,Addis Ababa,Ethiopia,3390,2024-09-21 22:30:00,2024-09-22 03:15:00,Delayed,301568
+FL00863,Ethiopian Airlines,Accra,Ghana,Enugu,Nigeria,700,2024-09-21 05:30:00,2024-09-21 07:09:00,Cancelled,81524
+FL00864,Air Peace,Enugu,Nigeria,Lusaka,Zambia,4000,2024-09-22 19:15:00,2024-09-23 00:58:00,Cancelled,368407
+FL00865,Kenya Airways,Johannesburg,South Africa,Kano,Nigeria,4118,2024-09-23 12:15:00,2024-09-23 17:52:00,On-Time,398083
+FL00866,Kenya Airways,Lusaka,Zambia,Johannesburg,South Africa,1160,2024-09-24 15:00:00,2024-09-24 17:11:00,On-Time,124855
+FL00867,Dana Air,Enugu,Nigeria,Cairo,Egypt,3700,2024-09-24 16:45:00,2024-09-24 21:52:00,Cancelled,330186
+FL00868,Ethiopian Airlines,Douala,Cameroon,Abuja,Nigeria,870,2024-09-25 16:30:00,2024-09-25 18:04:00,On-Time,105608
+FL00869,Air Peace,Enugu,Nigeria,Casablanca,Morocco,3900,2024-09-26 08:00:00,2024-09-26 13:17:00,On-Time,373573
+FL00870,Arik Air,Douala,Cameroon,Port Harcourt,Nigeria,480,2024-09-27 20:15:00,2024-09-27 21:13:00,On-Time,52648
+FL00871,EgyptAir,Casablanca,Morocco,Enugu,Nigeria,3900,2024-09-27 08:45:00,2024-09-27 13:56:00,On-Time,378508
+FL00872,Kenya Airways,Accra,Ghana,Kano,Nigeria,1382,2024-09-28 09:00:00,2024-09-28 11:13:00,On-Time,138303
+FL00873,Dana Air,Port Harcourt,Nigeria,Abuja,Nigeria,476,2024-09-29 09:30:00,2024-09-29 10:32:00,On-Time,45622
+FL00874,Arik Air,Port Harcourt,Nigeria,Abuja,Nigeria,476,2024-09-29 12:00:00,2024-09-29 13:15:00,On-Time,66718
+FL00875,Ethiopian Airlines,Dar es Salaam,Tanzania,Addis Ababa,Ethiopia,1280,2024-09-30 14:30:00,2024-09-30 16:58:00,On-Time,130533
+FL00876,Arik Air,Accra,Ghana,Casablanca,Morocco,3300,2024-10-01 21:15:00,2024-10-02 01:49:00,On-Time,295964
+FL00877,Dana Air,Enugu,Nigeria,Cairo,Egypt,3700,2024-10-02 13:45:00,2024-10-02 19:14:00,Cancelled,319723
+FL00878,Arik Air,Dakar,Senegal,Kano,Nigeria,2400,2024-10-02 18:45:00,2024-10-02 22:33:00,On-Time,220932
+FL00879,Arik Air,Kano,Nigeria,Cairo,Egypt,2887,2024-10-03 12:45:00,2024-10-03 17:21:00,On-Time,265263
+FL00880,Kenya Airways,Dar es Salaam,Tanzania,Dakar,Senegal,6200,2024-10-04 13:15:00,2024-10-04 21:19:00,Delayed,592832
+FL00881,Kenya Airways,Cairo,Egypt,Nairobi,Kenya,3637,2024-10-05 15:30:00,2024-10-05 21:01:00,On-Time,347283
+FL00882,Arik Air,Kano,Nigeria,Lagos,Nigeria,1054,2024-10-05 05:15:00,2024-10-05 07:13:00,On-Time,117619
+FL00883,Air Peace,Lagos,Nigeria,Casablanca,Morocco,4010,2024-10-06 18:45:00,2024-10-07 00:22:00,On-Time,383358
+FL00884,Arik Air,Abuja,Nigeria,Douala,Cameroon,870,2024-10-07 09:15:00,2024-10-07 11:07:00,On-Time,90332
+FL00885,Air Peace,Abuja,Nigeria,Kano,Nigeria,316,2024-10-07 18:15:00,2024-10-07 19:16:00,Cancelled,47785
+FL00886,Arik Air,Port Harcourt,Nigeria,Enugu,Nigeria,155,2024-10-08 08:15:00,2024-10-08 09:06:00,On-Time,33813
+FL00887,Air Peace,Kano,Nigeria,Dakar,Senegal,2400,2024-10-09 05:30:00,2024-10-09 09:15:00,Delayed,235292
+FL00888,Kenya Airways,Addis Ababa,Ethiopia,Nairobi,Kenya,1165,2024-10-10 12:00:00,2024-10-10 13:58:00,On-Time,128965
+FL00889,EgyptAir,Dakar,Senegal,Casablanca,Morocco,2000,2024-10-10 19:00:00,2024-10-10 21:52:00,On-Time,193958
+FL00890,Kenya Airways,Lusaka,Zambia,Addis Ababa,Ethiopia,2520,2024-10-11 19:15:00,2024-10-11 23:02:00,Delayed,249754
+FL00891,EgyptAir,Casablanca,Morocco,Johannesburg,South Africa,7200,2024-10-12 13:00:00,2024-10-12 22:42:00,On-Time,672736
+FL00892,Dana Air,Lagos,Nigeria,Nairobi,Kenya,4182,2024-10-13 13:00:00,2024-10-13 18:59:00,On-Time,368861
+FL00893,Dana Air,Enugu,Nigeria,Accra,Ghana,700,2024-10-13 14:15:00,2024-10-13 15:27:00,Delayed,74770
+FL00894,Arik Air,Lagos,Nigeria,Lusaka,Zambia,4260,2024-10-14 13:15:00,2024-10-14 19:15:00,On-Time,385665
+FL00895,Arik Air,Accra,Ghana,Nairobi,Kenya,4808,2024-10-15 07:45:00,2024-10-15 14:11:00,On-Time,436844
+FL00896,EgyptAir,Dakar,Senegal,Addis Ababa,Ethiopia,4800,2024-10-16 15:00:00,2024-10-16 21:34:00,On-Time,451309
+FL00897,Ethiopian Airlines,Lusaka,Zambia,Douala,Cameroon,3600,2024-10-16 10:30:00,2024-10-16 15:59:00,On-Time,350320
+FL00898,Dana Air,Enugu,Nigeria,Dakar,Senegal,3100,2024-10-17 06:15:00,2024-10-17 10:44:00,On-Time,269226
+FL00899,Kenya Airways,Lagos,Nigeria,Dakar,Senegal,2832,2024-10-18 11:45:00,2024-10-18 15:44:00,On-Time,285042
+FL00900,Arik Air,Douala,Cameroon,Abuja,Nigeria,870,2024-10-18 22:30:00,2024-10-19 00:21:00,Delayed,90904
+FL00901,Arik Air,Abuja,Nigeria,Enugu,Nigeria,330,2024-10-19 06:00:00,2024-10-19 06:57:00,On-Time,34604
+FL00902,Arik Air,Abuja,Nigeria,Dakar,Senegal,2600,2024-10-20 21:45:00,2024-10-21 01:45:00,Delayed,246749
+FL00903,Kenya Airways,Dar es Salaam,Tanzania,Addis Ababa,Ethiopia,1280,2024-10-21 15:15:00,2024-10-21 17:48:00,On-Time,136264
+FL00904,Air Peace,Kano,Nigeria,Lagos,Nigeria,1054,2024-10-21 16:30:00,2024-10-21 18:08:00,Cancelled,112252
+FL00905,Dana Air,Kano,Nigeria,Accra,Ghana,1382,2024-10-22 11:15:00,2024-10-22 13:26:00,On-Time,130559
+FL00906,Kenya Airways,Nairobi,Kenya,Accra,Ghana,4808,2024-10-23 10:00:00,2024-10-23 16:24:00,Delayed,458827
+FL00907,Ethiopian Airlines,Accra,Ghana,Casablanca,Morocco,3300,2024-10-24 05:30:00,2024-10-24 10:22:00,On-Time,319794
+FL00908,Air Peace,Abuja,Nigeria,Casablanca,Morocco,3680,2024-10-24 21:00:00,2024-10-25 02:28:00,On-Time,354187
+FL00909,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2024-10-25 15:00:00,2024-10-25 16:13:00,On-Time,69568
+FL00910,Air Peace,Abuja,Nigeria,Kano,Nigeria,316,2024-10-26 22:45:00,2024-10-26 23:50:00,On-Time,35536
+FL00911,Arik Air,Lagos,Nigeria,Nairobi,Kenya,4182,2024-10-26 21:15:00,2024-10-27 03:26:00,On-Time,383710
+FL00912,Ethiopian Airlines,Johannesburg,South Africa,Abuja,Nigeria,4243,2024-10-27 11:30:00,2024-10-27 17:34:00,On-Time,425825
+FL00913,Air Peace,Port Harcourt,Nigeria,Accra,Ghana,730,2024-10-28 21:00:00,2024-10-28 22:15:00,Delayed,89167
+FL00914,Air Peace,Nairobi,Kenya,Johannesburg,South Africa,2723,2024-10-29 13:00:00,2024-10-29 17:03:00,On-Time,264021
+FL00915,Dana Air,Kano,Nigeria,Lusaka,Zambia,3700,2024-10-29 21:30:00,2024-10-30 02:33:00,On-Time,325295
+FL00916,Ethiopian Airlines,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2024-10-30 12:00:00,2024-10-30 18:11:00,On-Time,414424
+FL00917,EgyptAir,Casablanca,Morocco,Enugu,Nigeria,3900,2024-10-31 21:45:00,2024-11-01 03:04:00,On-Time,365382
+FL00918,Kenya Airways,Accra,Ghana,Dakar,Senegal,2100,2024-11-01 11:45:00,2024-11-01 14:59:00,Delayed,205066
+FL00919,Dana Air,Lagos,Nigeria,Douala,Cameroon,1060,2024-11-01 05:45:00,2024-11-01 07:36:00,On-Time,95337
+FL00920,EgyptAir,Addis Ababa,Ethiopia,Lagos,Nigeria,3856,2024-11-02 17:45:00,2024-11-02 23:33:00,Delayed,362294
+FL00921,Dana Air,Port Harcourt,Nigeria,Abuja,Nigeria,476,2024-11-03 21:00:00,2024-11-03 21:58:00,Delayed,52856
+FL00922,Arik Air,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2024-11-04 17:30:00,2024-11-04 23:16:00,On-Time,370931
+FL00923,Dana Air,Enugu,Nigeria,Lagos,Nigeria,478,2024-11-04 20:30:00,2024-11-04 21:27:00,On-Time,58730
+FL00924,Arik Air,Lagos,Nigeria,Abuja,Nigeria,533,2024-11-05 12:30:00,2024-11-05 13:38:00,On-Time,61148
+FL00925,Kenya Airways,Addis Ababa,Ethiopia,Douala,Cameroon,2800,2024-11-06 22:30:00,2024-11-07 02:32:00,On-Time,282465
+FL00926,Kenya Airways,Cairo,Egypt,Lusaka,Zambia,4800,2024-11-06 05:15:00,2024-11-06 11:45:00,On-Time,455416
+FL00927,Ethiopian Airlines,Lagos,Nigeria,Casablanca,Morocco,4010,2024-11-07 18:30:00,2024-11-08 00:16:00,On-Time,399111
+FL00928,EgyptAir,Johannesburg,South Africa,Dakar,Senegal,6500,2024-11-08 19:15:00,2024-11-09 04:18:00,On-Time,607207
+FL00929,Air Peace,Lagos,Nigeria,Addis Ababa,Ethiopia,3856,2024-11-09 22:15:00,2024-11-10 03:25:00,On-Time,355976
+FL00930,Ethiopian Airlines,Johannesburg,South Africa,Enugu,Nigeria,4100,2024-11-09 06:45:00,2024-11-09 12:14:00,Delayed,404616
+FL00931,EgyptAir,Johannesburg,South Africa,Lusaka,Zambia,1160,2024-11-10 21:15:00,2024-11-10 23:40:00,On-Time,128645
+FL00932,Arik Air,Port Harcourt,Nigeria,Lusaka,Zambia,3900,2024-11-11 22:00:00,2024-11-12 03:44:00,On-Time,360261
+FL00933,Air Peace,Abuja,Nigeria,Kano,Nigeria,316,2024-11-12 10:15:00,2024-11-12 11:37:00,On-Time,35000
+FL00934,Dana Air,Enugu,Nigeria,Cairo,Egypt,3700,2024-11-12 08:45:00,2024-11-12 14:21:00,Delayed,320968
+FL00935,EgyptAir,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2024-11-13 05:15:00,2024-11-13 10:08:00,On-Time,346791
+FL00936,Arik Air,Accra,Ghana,Douala,Cameroon,1200,2024-11-14 12:00:00,2024-11-14 14:08:00,On-Time,128337
+FL00937,Dana Air,Lagos,Nigeria,Kano,Nigeria,1054,2024-11-14 11:00:00,2024-11-14 13:03:00,On-Time,95475
+FL00938,Dana Air,Enugu,Nigeria,Kano,Nigeria,650,2024-11-15 07:00:00,2024-11-15 08:26:00,Delayed,77444
+FL00939,Ethiopian Airlines,Addis Ababa,Ethiopia,Dakar,Senegal,4800,2024-11-16 14:45:00,2024-11-16 21:37:00,Delayed,471762
+FL00940,Arik Air,Abuja,Nigeria,Kano,Nigeria,316,2024-11-17 14:45:00,2024-11-17 15:32:00,On-Time,38485
+FL00941,Ethiopian Airlines,Lusaka,Zambia,Enugu,Nigeria,4000,2024-11-17 18:30:00,2024-11-17 23:57:00,On-Time,403812
+FL00942,Ethiopian Airlines,Accra,Ghana,Abuja,Nigeria,1055,2024-11-18 06:45:00,2024-11-18 08:28:00,Cancelled,120860
+FL00943,Air Peace,Kano,Nigeria,Nairobi,Kenya,3318,2024-11-19 05:00:00,2024-11-19 09:41:00,On-Time,314070
+FL00944,Dana Air,Abuja,Nigeria,Casablanca,Morocco,3680,2024-11-20 22:00:00,2024-11-21 03:13:00,On-Time,324625
+FL00945,Kenya Airways,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2024-11-20 11:45:00,2024-11-20 17:03:00,On-Time,354090
+FL00946,Air Peace,Nairobi,Kenya,Cairo,Egypt,3637,2024-11-21 12:15:00,2024-11-21 17:21:00,On-Time,346286
+FL00947,Arik Air,Port Harcourt,Nigeria,Nairobi,Kenya,3906,2024-11-22 05:45:00,2024-11-22 11:30:00,On-Time,351750
+FL00948,Kenya Airways,Dar es Salaam,Tanzania,Lagos,Nigeria,4450,2024-11-23 07:45:00,2024-11-23 13:59:00,On-Time,431155
+FL00949,Arik Air,Accra,Ghana,Douala,Cameroon,1200,2024-11-23 12:00:00,2024-11-23 14:26:00,Delayed,129960
+FL00950,Arik Air,Lagos,Nigeria,Abuja,Nigeria,533,2024-11-24 19:30:00,2024-11-24 20:51:00,Cancelled,66289
+FL00951,EgyptAir,Casablanca,Morocco,Cairo,Egypt,3200,2024-11-25 09:00:00,2024-11-25 13:42:00,Delayed,312675
+FL00952,Arik Air,Lagos,Nigeria,Cairo,Egypt,4020,2024-11-25 07:30:00,2024-11-25 12:58:00,On-Time,373245
+FL00953,EgyptAir,Lagos,Nigeria,Dakar,Senegal,2832,2024-11-26 05:00:00,2024-11-26 09:12:00,On-Time,275037
+FL00954,Dana Air,Abuja,Nigeria,Johannesburg,South Africa,4243,2024-11-27 19:45:00,2024-11-28 01:47:00,On-Time,367179
+FL00955,Dana Air,Lagos,Nigeria,Enugu,Nigeria,478,2024-11-28 12:00:00,2024-11-28 13:10:00,Cancelled,58992
+FL00956,Arik Air,Abuja,Nigeria,Port Harcourt,Nigeria,476,2024-11-28 06:00:00,2024-11-28 07:15:00,On-Time,57759
+FL00957,Dana Air,Lagos,Nigeria,Port Harcourt,Nigeria,443,2024-11-29 07:00:00,2024-11-29 07:55:00,Cancelled,56338
+FL00958,Ethiopian Airlines,Dar es Salaam,Tanzania,Kano,Nigeria,3800,2024-11-30 18:45:00,2024-11-30 23:58:00,Delayed,383348
+FL00959,Air Peace,Kano,Nigeria,Dar es Salaam,Tanzania,3800,2024-12-01 18:45:00,2024-12-02 00:13:00,Delayed,358560
+FL00960,Arik Air,Accra,Ghana,Lusaka,Zambia,4500,2024-12-01 15:45:00,2024-12-01 21:57:00,On-Time,401355
+FL00961,Dana Air,Abuja,Nigeria,Douala,Cameroon,870,2024-12-02 20:45:00,2024-12-02 22:43:00,On-Time,89844
+FL00962,Ethiopian Airlines,Douala,Cameroon,Dakar,Senegal,3100,2024-12-03 08:30:00,2024-12-03 12:55:00,On-Time,309803
+FL00963,Dana Air,Abuja,Nigeria,Accra,Ghana,1055,2024-12-03 09:30:00,2024-12-03 11:07:00,Delayed,96581
+FL00964,Arik Air,Accra,Ghana,Kano,Nigeria,1382,2024-12-04 18:15:00,2024-12-04 20:43:00,Delayed,142279
+FL00965,Air Peace,Enugu,Nigeria,Kano,Nigeria,650,2024-12-05 20:45:00,2024-12-05 22:18:00,Delayed,74545
+FL00966,Kenya Airways,Nairobi,Kenya,Lagos,Nigeria,4182,2024-12-06 22:30:00,2024-12-07 04:18:00,Cancelled,396997
+FL00967,Ethiopian Airlines,Johannesburg,South Africa,Dar es Salaam,Tanzania,2400,2024-12-06 11:00:00,2024-12-06 14:55:00,Cancelled,235553
+FL00968,Ethiopian Airlines,Cairo,Egypt,Dar es Salaam,Tanzania,3600,2024-12-07 14:45:00,2024-12-07 20:07:00,On-Time,365733
+FL00969,EgyptAir,Dakar,Senegal,Douala,Cameroon,3100,2024-12-08 11:15:00,2024-12-08 15:31:00,Cancelled,295388
+FL00970,Dana Air,Kano,Nigeria,Lagos,Nigeria,1054,2024-12-09 05:15:00,2024-12-09 07:07:00,Cancelled,98267
+FL00971,EgyptAir,Johannesburg,South Africa,Kano,Nigeria,4118,2024-12-09 20:15:00,2024-12-10 02:22:00,On-Time,397510
+FL00972,Air Peace,Abuja,Nigeria,Accra,Ghana,1055,2024-12-10 08:00:00,2024-12-10 10:00:00,Cancelled,100820
+FL00973,Kenya Airways,Lagos,Nigeria,Dakar,Senegal,2832,2024-12-11 22:30:00,2024-12-12 02:20:00,On-Time,272509
+FL00974,Ethiopian Airlines,Nairobi,Kenya,Johannesburg,South Africa,2723,2024-12-12 06:00:00,2024-12-12 10:03:00,Delayed,264138
+FL00975,Air Peace,Lagos,Nigeria,Port Harcourt,Nigeria,443,2024-12-12 05:45:00,2024-12-12 07:03:00,On-Time,61266
+FL00976,Dana Air,Port Harcourt,Nigeria,Johannesburg,South Africa,4257,2024-12-13 19:15:00,2024-12-14 00:55:00,On-Time,368862
+FL00977,EgyptAir,Dakar,Senegal,Lusaka,Zambia,5900,2024-12-14 09:00:00,2024-12-14 16:41:00,On-Time,564051
+FL00978,Kenya Airways,Dar es Salaam,Tanzania,Enugu,Nigeria,4200,2024-12-14 15:00:00,2024-12-14 20:52:00,Delayed,401943
+FL00979,Arik Air,Port Harcourt,Nigeria,Dar es Salaam,Tanzania,4100,2024-12-15 14:30:00,2024-12-15 20:29:00,On-Time,373969
+FL00980,Air Peace,Accra,Ghana,Douala,Cameroon,1200,2024-12-16 06:30:00,2024-12-16 08:29:00,Delayed,130032
+FL00981,Arik Air,Dakar,Senegal,Abuja,Nigeria,2600,2024-12-17 07:15:00,2024-12-17 11:14:00,On-Time,251193
+FL00982,Ethiopian Airlines,Addis Ababa,Ethiopia,Enugu,Nigeria,3450,2024-12-17 16:00:00,2024-12-17 20:46:00,Delayed,346015
+FL00983,Air Peace,Abuja,Nigeria,Cairo,Egypt,3224,2024-12-18 09:00:00,2024-12-18 13:37:00,On-Time,304375
+FL00984,Arik Air,Abuja,Nigeria,Lusaka,Zambia,3980,2024-12-19 09:30:00,2024-12-19 15:18:00,On-Time,371400
+FL00985,Air Peace,Enugu,Nigeria,Lagos,Nigeria,478,2024-12-20 10:00:00,2024-12-20 11:13:00,On-Time,50253
+FL00986,EgyptAir,Johannesburg,South Africa,Port Harcourt,Nigeria,4257,2024-12-20 13:00:00,2024-12-20 19:01:00,Delayed,402203
+FL00987,Kenya Airways,Addis Ababa,Ethiopia,Cairo,Egypt,2185,2024-12-21 06:00:00,2024-12-21 09:16:00,On-Time,224052
+FL00988,Arik Air,Lagos,Nigeria,Abuja,Nigeria,533,2024-12-22 16:30:00,2024-12-22 18:07:00,Delayed,61650
+FL00989,Dana Air,Kano,Nigeria,Accra,Ghana,1382,2024-12-22 07:15:00,2024-12-22 09:37:00,On-Time,130345
+FL00990,Arik Air,Abuja,Nigeria,Accra,Ghana,1055,2024-12-23 16:45:00,2024-12-23 19:01:00,On-Time,107820
+FL00991,EgyptAir,Dakar,Senegal,Lagos,Nigeria,2832,2024-12-24 21:15:00,2024-12-25 01:06:00,On-Time,278849
+FL00992,EgyptAir,Nairobi,Kenya,Kano,Nigeria,3318,2024-12-25 14:45:00,2024-12-25 19:30:00,Cancelled,320256
+FL00993,Air Peace,Accra,Ghana,Cairo,Egypt,4383,2024-12-25 18:00:00,2024-12-25 23:58:00,Delayed,401142
+FL00994,Ethiopian Airlines,Dar es Salaam,Tanzania,Lusaka,Zambia,1500,2024-12-26 21:15:00,2024-12-26 23:35:00,On-Time,159890
+FL00995,Air Peace,Nairobi,Kenya,Lagos,Nigeria,4182,2024-12-27 22:45:00,2024-12-28 04:56:00,Cancelled,392082
+FL00996,Kenya Airways,Addis Ababa,Ethiopia,Johannesburg,South Africa,3670,2024-12-28 21:30:00,2024-12-29 02:31:00,Delayed,363460
+FL00997,Arik Air,Dakar,Senegal,Cairo,Egypt,4900,2024-12-28 18:30:00,2024-12-29 01:03:00,On-Time,446151
+FL00998,Air Peace,Accra,Ghana,Cairo,Egypt,4383,2024-12-29 13:15:00,2024-12-29 19:11:00,On-Time,412805
+FL00999,Kenya Airways,Cairo,Egypt,Nairobi,Kenya,3637,2024-12-30 12:15:00,2024-12-30 17:36:00,On-Time,351770
+FL01000,EgyptAir,Casablanca,Morocco,Enugu,Nigeria,3900,2024-12-31 06:00:00,2024-12-31 11:40:00,Delayed,369759
