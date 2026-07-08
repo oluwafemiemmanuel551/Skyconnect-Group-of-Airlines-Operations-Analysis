@@ -21,7 +21,7 @@
 > Passenger insights: **1,200 bookings · avg age 44.21 · Revenue peaks in October (₦73M)*
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 | **Power BI Desktop** | Dashboard design & interactive visualizations |
@@ -30,7 +30,7 @@
 | **DAX** | Calculated measures and KPIs in Power BI |
 
 
-## 🔍 SQL Queries Used
+##  SQL Queries Used
 
 <details>
 <summary><strong>1. Revenue, Cost & Profit by Year</strong></summary>
