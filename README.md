@@ -17,8 +17,8 @@ High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦13
 
 
 ### 3. Passengers & Bookings Analysis
-![ Passengers & Bookings Analysis](.Passengers%20and%20Bookings%20Analysis.png)>
-> Passenger insights: **1,200 bookings · avg age 44.21 · Revenue peaks in October (₦73M)*
+![ Passengers & Bookings Analysis](./Passengers%20and%20Bookings%20Analysis.png)>
+> Passenger insights: **1,200 bookings · avg age 44.21 · Revenue peaks in October (₦73M)**
 
 
 ##  Tools & Technologies
