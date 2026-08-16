@@ -364,7 +364,7 @@ ORDER BY 3 DESC;
 **Oluwafemi Amodu**  
 Data Analyst | Business Intelligence  
 [LinkedIn](https://linkedin.com/in/oluwafemitheanalyst0) · [Portfolio](https://Oluwafemiemmanuel551.github.io) · [Email](https://mail.google.com/mail/u/0/#inbox)
-· [Chat on Whatsapp](https://wa.me/<+2349022131055>)
+· [Chat on Whatsapp](https://wa.me/+2349022131055)
 
 
    
