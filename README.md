@@ -25,7 +25,7 @@ High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦13
 
 | Tool | Purpose |
 | **Power BI Desktop** | Dashboard design & interactive visualizations |
-| **SQL (SQLite / T-SQL)** | Data exploration and KPI queries |
+| **SQL (MySQLWorkbench)** | Data exploration and KPI queries |
 | **Microsoft Excel / CSV** | Raw data storage and pre-processing |
 | **DAX** | Calculated measures and KPIs in Power BI |
 
@@ -311,7 +311,7 @@ ORDER BY 3 DESC;
 | 🟡 Low | **Optimise Crew & Catering scheduling** | 49 delays from crew availability and catering delays can be reduced with tighter crew rostering and earlier catering slot bookings. |
 
 
-### 👥 Passenger & Loyalty Strategy
+###  Passenger & Loyalty Strategy
 
 | Priority | Recommendation | Action |
 |----------|---------------|--------|
@@ -359,11 +359,11 @@ ORDER BY 3 DESC;
    - All queries in this README are compatible with **SQLite**, **SQL Server**, and **PostgreSQL** with minor adjustments
 
 
-## 👤 Author
+##  Author
 
 **Oluwafemi Amodu**  
 Data Analyst | Business Intelligence  
-[LinkedIn](https://linkedin.com/in/oluwafemi-amodu-2090a0407) · [Portfolio](https://Oluwafemi-portfolio-sigma-vercel.app) · [Email](oluwafemiemmanuel551@gmail.com)
+[LinkedIn](https://linkedin.com/in/oluwafemitheanalyst0) · [Portfolio](https://Oluwafemiemmanuel551.github.io) · [Email](oluwafemiemmanuel551@gmail.com)
 · [Chat on Whatsapp](+2349022131055)
 
 
