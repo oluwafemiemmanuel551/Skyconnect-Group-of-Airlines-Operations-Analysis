@@ -16,8 +16,8 @@ High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦13
 > Operational metrics: **241 delayed flights · 91 cancellations · 67% on-time rate · 124.22 avg delay minutes**
 
 
-### 3. Bookings & Passenger Analysis
-![ Bookings & Passengers Analysis](./Bookings%20and%20Passengers%20Analysis.png)>
+### 3. Passengers & Bookings Analysis
+![ Passengers & Bookings Analysis](.Passengers%20and%20Bookings%20Analysis.png)>
 > Passenger insights: **1,200 bookings · avg age 44.21 · Revenue peaks in October (₦73M)*
 
 
