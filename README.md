@@ -6,8 +6,11 @@
 ##  Dashboard Previews
 
 ### 1. Overview Dashboard
-[SkyConnect Airlines Business Intelligence overview dashboard displaying key performance indicators including 1000 total flights, 1200 passengers served, 590 million Naira in revenue, 136 million Naira profit, and 23 percent profit margin from 2022 to 2024 fiscal period](Overview dashboard.png)
-
+Skyconnect-Group-of-Airlinrs-Operations-Analysis/
+│
+├── README.md
+└── images/
+    └── Overview Dashboard.png
 > High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦136M profit · 23% profit margin**
 
 
