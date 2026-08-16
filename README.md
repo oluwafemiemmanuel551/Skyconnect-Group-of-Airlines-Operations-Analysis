@@ -6,14 +6,13 @@
 ##  Dashboard Previews
 
 ### 1. Overview Dashboard
-# My Project Dashboard
 
-![Dashboard Screenshot](./images/Overview Dashboard.png)>
+![Overview Dashboard](./Overview%20Dashboard.png)>
 High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦136M profit · 23% profit margin**
 
 
 ### 2. Delay & Flight Analysis
-
+![Delay & Flight Analysis](./Delay%20and%20Flight%20Analysis.png)>
 > Operational metrics: **241 delayed flights · 91 cancellations · 67% on-time rate · 124.22 avg delay minutes**
 
 
