@@ -6,11 +6,7 @@
 ##  Dashboard Previews
 
 ### 1. Overview Dashboard
-Skyconnect-Group-of-Airlinrs-Operations-Analysis/
-│
-├── README.md
-└── images/
-    └── Overview Dashboard.png
+Overview Dashboard.png
 > High-level KPIs: **1,000 flights · 1,200 passengers · ₦590M revenue · ₦136M profit · 23% profit margin**
 
 
